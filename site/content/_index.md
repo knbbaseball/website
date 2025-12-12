@@ -67,7 +67,7 @@ schedule:
     time: 8：30 ～ 16：30
     description: ふれあいカップ」
     location_text: 高嶺小学校
-  - date: 2025-12-06 02:14:16 +0000
+  - date: 2025-12-14 02:14:16 +0000
     team: D
     time: 14：30 ～
     description: 試合開始
