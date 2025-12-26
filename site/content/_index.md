@@ -7,66 +7,36 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-12-20 06:58:04 +0000
+  - date: 2025-12-28 23:06:12 +0000
+    team: ALL
+    time: 8：00 ～ 17：00
+    description: 自主練Day⚾
+    location_text: 高嶺小学校　寿恵野小学校　畝部小学校
+  - date: 2025-12-29 09:03:58 +0000
+    team: ALL
+    time: 8：00 ～ 17：00
+    description: 自主練Day⚾
+    location_text: 上郷コミュニティセンター
+  - date: 2025-12-27 06:58:04 +0000
     team: A
     time: 8：30 ～ 16：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-12-21 06:25:43 +0000
-    time: 8：00 ～ 16：00
+  - date: 2025-12-27 23:06:12 +0000
+    team: B
+    time: 7：30 ～ 16：00
     description: 練習試合
-    location_text: 高嶺小学校
-    team: A
-  - date: 2025-12-21 00:31:41 +0000
-    team: A
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2025-12-20 23:06:12 +0000
-    team: B
-    time: 8：00 ～ 16：30
-    description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2025-12-21 23:06:12 +0000
+  - date: 2025-12-27 06:25:43 +0000
     team: B
-    time: 8：00 ～ 16：30
-    description: ふれあいカップ決勝トーナメント
-    location_text: 富士精工グラウンド
-  - date: 2025-12-21 06:25:43 +0000
-    team: B
-    time: 14：00 ～
+    time: 13：00 ～
     description: 試合開始
-    location_text: 富士精工グラウンド
-  - date: 2025-12-20 07:51:12 +0000
+    location_text: 上郷コミュニティセンター
+  - date: 2025-12-27 07:51:12 +0000
     team: C
-    time: 7：30 ～ 16：30
-    description: ふれあいカップ決勝トーナメント　練習試合
-    location_text: 岡崎市立羽根小学校
-  - date: 2025-12-20 07:09:39 +0000
-    location_text: 岡崎市立羽根小学校
-    team: C
-    time: 10：30 ～　　　　　　　　　　　　　　　　13：30 ～
-    description: 試合開始
-  - date: 2025-12-21 07:51:13 +0000
-    team: C
-    time: 8：30 ～ 16：30
+    time: 8：30 ～ 16：00
     description: 練習
     location_text: 畝部小学校
-  - date: 2025-12-20 09:03:58 +0000
-    team: D
-    time: 8：30 ～ 16：00
-    description: ふれあいカップ決勝トーナメント
-    location_text: 寿恵野小学校
-  - date: 2025-12-20 02:14:16 +0000
-    team: D
-    time: 14：00 ～
-    description: 試合開始
-    location_text: 寿恵野小学校
-  - date: 2025-12-21 23:06:14 +0000
-    team: D
-    time: 8：00 ～ 16：00
-    description: ふれあいカップ　決勝トーナメント
-    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
