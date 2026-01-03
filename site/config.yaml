@@ -17,6 +17,8 @@ params:
   mainSections:
     - blog
   recentPostCount: 6
+  sourceCodeUrl: "https://github.com/knbbaseball/knbbaseball-website"
+  sourceCodeLabel: "このサイトのソースコード"
 
 # https://gohugo.io/content-management/menus
 menu:
