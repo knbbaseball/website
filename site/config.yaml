@@ -3,7 +3,6 @@ baseURL: '/'
 languageCode: ja
 title: 上郷ノーティボーイズ
 Copyright: 上郷ノーティボーイズ
-paginate: 30
 googleAnalytics: UA-177386393-1
 enableRobotsTXT: true
 hasCJKLanguage: true
@@ -30,6 +29,10 @@ menu:
     - name: リンク
       url: '/links'
       weight: 3
+
+# https://gohugo.io/templates/pagination
+pagination:
+  pagerSize: 30
 
 # https://gohugo.io/content-management/image-processing/
 imaging:
