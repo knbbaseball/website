@@ -17,7 +17,7 @@
   <link rel="shortcut icon" type="image/png" href="{{ relURL "img/favicon.ico" }}">
 
   {{/* https://gohugo.io/hugo-pipes/scss-sass */}}
-  {{ if .Site.IsServer }}
+  {{ if hugo.IsServer }}
     {{ $cssOpts := (dict "targetPath" "css/main.css" "enableSourceMap" true ) }}
     {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
@@ -28,7 +28,7 @@
   {{ end }}
 
   {{/* https://gohugo.io/hugo-pipes/js */}}
-  {{ if .Site.IsServer }}
+  {{ if hugo.IsServer }}
     {{ $script := resources.Get "js/main.js" | js.Build }}
     <script src="{{ $script.RelPermalink }}"></script>
   {{ else }}

@@ -9,6 +9,6 @@ command = "npm install && hugo"
 NODE_VERSION = "22"
 
 [context.production.environment]
-HUGO_VERSION = "0.104.3"
+HUGO_VERSION = "0.154.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
