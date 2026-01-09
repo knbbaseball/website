@@ -5,6 +5,9 @@ base    = "site"
 publish = "public"
 command = "npm install && hugo"
 
+[build.environment]
+NODE_VERSION = "22"
+
 [context.production.environment]
 HUGO_VERSION = "0.104.3"
 HUGO_ENV = "production"
