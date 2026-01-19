@@ -5,7 +5,6 @@ backend:
   name: git-gateway
   # git Gateway Error: Please ask your site administrator to reissue the Git Gateway token
   # https://community.netlify.com/t/git-gateway-error/12220/8
-  repo: knbbaseball/website
   branch: main
   commit_messages:
     create: 'Create {{collection}} "{{slug}}"'
