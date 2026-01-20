@@ -21,3 +21,4 @@ date: 2020-08-28
 
 - [OB紹介](https://kamigonaughtyboys.web.fc2.com/seiseki/ob_shoukai.html)
 - [写真館](https://kamigonaughtyboys.web.fc2.com/SYASINKAN.html)
+
