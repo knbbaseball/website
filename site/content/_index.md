@@ -7,26 +7,46 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-12-27 06:58:04 +0000
+  - date: 2026-01-25 00:00:00 Z+09:00
     team: A
-    time: 8：30 ～ 16：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2025-12-27 23:06:12 +0000
-    team: B
     time: 7：30 ～ 16：00
-    description: 練習試合
-    location_text: 上郷コミュニティセンター
-  - date: 2025-12-27 06:25:43 +0000
-    team: B
-    time: 13：00 ～
+    description: 卒団記念試合
+    location_text: 豊田市運動公園ソフトボール場
+  - team: A
+    date: 2026-01-25 00:00:00 Z+09:00
+    time: 13：30 ～
     description: 試合開始
-    location_text: 上郷コミュニティセンター
-  - date: 2025-12-27 07:51:12 +0000
+    location_text: 豊田市運動公園ソフトボール場
+  - team: A
+    date: 2026-01-26 00:00:00 Z+09:00
+    time: 7：30 ～ 15：30
+    description: Bチーム・親子マッチ
+    location_text: 高嶺小学校
+  - team: A
+    date: 2026-01-26 00:00:00 Z+09:00
+    time: 9：30 ～（Bチーム）　　　　　　　　　　　　　　　　　　　14：00 ～（親子）
+    description: 試合開始
+    location_text: 高嶺小学校
+  - date: 2026-01-21 00:00:00 Z+09:00
     team: C
     time: 8：30 ～ 16：00
     description: 練習
     location_text: 畝部小学校
+  - date: 2026-01-26 00:00:00 Z+09:00
+    team: C
+    time: 8：30 ～ 16：00
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2026-01-25 00:00:00 Z+09:00
+    team: D
+    time: 8：30 ～ 12：00
+    description: 練習
+    location_text: 寿恵野小学校
+  - team: D
+    date: 2026-01-26 00:00:00 Z+09:00
+    time: 8：30 ～ 12：00
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
