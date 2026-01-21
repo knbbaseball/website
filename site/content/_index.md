@@ -7,16 +7,6 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-12-28 23:06:12 +0000
-    team: ALL
-    time: 8：00 ～ 17：00
-    description: 自主練Day⚾
-    location_text: 高嶺小学校　寿恵野小学校　畝部小学校
-  - date: 2025-12-29 09:03:58 +0000
-    team: ALL
-    time: 8：00 ～ 17：00
-    description: 自主練Day⚾
-    location_text: 上郷コミュニティセンター
   - date: 2025-12-27 06:58:04 +0000
     team: A
     time: 8：30 ～ 16：00
