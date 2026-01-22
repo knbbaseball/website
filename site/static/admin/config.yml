@@ -36,7 +36,7 @@ collections: # A list of collections the CMS should be able to edit
         label: 日付,
         name: date,
         widget: datetime,
-        format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
+        format: 'YYYY-MM-DDTHH:mm:ssZ',
         date_format: 'YYYY-MM-DD',
         time_format: 'HH:mm',
         picker_utc: true, # so users in all timezones will see the same date in the datetime picker
@@ -46,6 +46,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: タグ, name: 'tags', widget: 'list', required: false }
       - { label: 写真, name: 'image', widget: 'image', required: false }
       - { label: 本文, name: 'body', widget: 'text', required: false }
+
   - name: 'team' # Used in routes, ie.: /admin/collections/:slug/edit
     label: チーム # Used in the UI, ie.: "New Team"
     folder: 'site/content/team' # The path to the folder where the documents are stored
@@ -57,8 +58,7 @@ collections: # A list of collections the CMS should be able to edit
         label: 日付,
         name: date,
         widget: datetime,
-        format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
-        date_format: true,
+        date_format: 'YYYY-MM-DD',
         time_format: false,
         picker_utc: true, # so users in all timezones will see the same date in the datetime picker
       }
@@ -103,8 +103,7 @@ collections: # A list of collections the CMS should be able to edit
               label: 日付,
               name: date,
               widget: datetime,
-              format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
-              date_format: true,
+              date_format: 'YYYY-MM-DD',
               time_format: false,
               picker_utc: true, # so users in all timezones will see the same date in the datetime picker
             },
@@ -115,6 +114,7 @@ collections: # A list of collections the CMS should be able to edit
             { label: 備考, name: memo, widget: string, required: false },
           ],
       }
+
   - name: pages
     label: ページ
     editor: { preview: false }
@@ -148,8 +148,7 @@ collections: # A list of collections the CMS should be able to edit
                     label: 日付,
                     name: date,
                     widget: datetime,
-                    format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
-                    date_format: true,
+                    date_format: 'YYYY-MM-DD',
                     time_format: false,
                     picker_utc: true, # so users in all timezones will see the same date in the datetime picker
                   },
@@ -174,6 +173,7 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - { label: 本文, name: 'body', widget: 'text', required: false }
+
       - file: 'site/content/links.md'
         label: リンク
         name: links
