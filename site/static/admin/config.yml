@@ -36,7 +36,6 @@ collections: # A list of collections the CMS should be able to edit
         label: 日付,
         name: date,
         widget: datetime,
-        format: 'YYYY-MM-DDTHH:mm:ssZ',
         date_format: 'YYYY-MM-DD',
         time_format: 'HH:mm',
         picker_utc: true, # so users in all timezones will see the same date in the datetime picker
