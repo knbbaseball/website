@@ -7,61 +7,56 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-01-31
+  - team: ALL
+    date: 2026-02-07
+    time: 17：00 ～ 19：00
+    description: 卒団式💐
+    location_text: 上和会区民会館
+  - date: 2026-02-07
     team: A
-    time: 8：00 ～ 16：00
-    description: AM：レッドクルーザーズ野球教室　　　　　　　　　　　　　　　　　　　　PM：練習
+    time: 8：30 ～ 15：00
+    description: AM：練習　　　　　　　　　　　　　　　　　　　　　　　　　　　　　PM：スタッフとの親善試合
     location_text: 高嶺小学校
-  - team: A
-    date: 2026-02-01
-    time: 8：00 ～ 16：30
-    description: 記録会　練習試合
-    location_text: 高嶺小学校　青木小学校
-  - team: A
-    date: 2026-02-01
-    time: 14：00 ～
-    description: 試合開始
-    location_text: 青木小学校
+  - team: 新A
+    date: 2026-02-08
+    time: 8：00 ～ 17：00
+    description: 練習
+    location_text: 高嶺小学校
   - team: B
-    date: 2026-01-31
-    time: 8：00 ～ 16：00
-    description: 練習試合
-    location_text: 上郷コミュニティセンター
+    date: 2026-02-07
+    time: 7：30 ～ 11：00
+    description: Cチーム戦
+    location_text: 畝部小学校
   - team: B
-    date: 2026-01-31
-    time: 10：00 ～　　　　　　　　　　　　　　　　　　　　　　　　　　　14：00 ～
+    date: 2026-02-07
+    time: 9：15 ～
     description: 試合開始
     location_text: 上郷コミュニティセンター
-  - team: B
+  - team: 新B
     date: 2026-02-01
     time: 8：00 ～ 17：00
     description: 練習
     location_text: 富士精工グラウンド
-  - date: 2026-01-31
+  - date: 2026-02-07
     team: C
-    time: 8：00 ～ 16：00
-    description: AM：レッドクルーザーズ野球教室　　　　　　　　　　　　　　　　　　　　PM：Dチーム戦
-    location_text: 高嶺小学校　　　　　　　　　　　　　　　　　　　　　　　畝部小学校
-  - date: 2026-02-01
-    team: C
-    time: 8：30 ～ 16：00
-    description: AM：練習　　　　　　　　　　　　　　　　　　　　　　　　　　　　　PM：親子試合
+    time: 7：30 ～ 11：00
+    description: Bチーム戦
     location_text: 畝部小学校
-  - team: C
-    date: 2026-02-01
-    time: 13：00 ～
-    description: 試合開始
-    location_text: 畝部小学校
-  - date: 2026-01-31
+  - team: 新C
+    date: 2026-02-08
+    time: 12：30 ～ 16：00
+    description: 練習
+    location_text: 富士精工グランド
+  - date: 2026-02-07
     team: D
-    time: 8：00 ～ 16：00
-    description: AM：レッドクルーザーズ野球教室　　　　　　　　　　　　　　　　　　　　PM：Cチーム戦
-    location_text: 高嶺小学校　　　　　　　　　　　　　　　　　　　　　　　畝部小学校
-  - team: D
-    date: 2026-02-01
     time: 8：30 ～ 12：00
     description: 練習
-    location_text: 寿恵野小学校
+    location_text: 高嶺小学校
+  - team: 新D
+    date: 2026-02-08
+    time: 13：00 ～ 16：00
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
