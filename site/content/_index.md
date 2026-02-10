@@ -27,31 +27,26 @@ schedule:
     time: 9：15 ～
     description: 試合開始
     location_text: 上郷コミュニティセンター
-  - team: 新B
-    date: 2026-02-01
-    time: 8：00 ～ 17：00
-    description: 練習
-    location_text: 富士精工グラウンド
-  - date: 2026-02-07
+  - date: 2026-02-14
     team: C
-    time: 7：30 ～ 11：00
-    description: Bチーム戦
+    time: 8:00〜16:30
+    description: 練習
     location_text: 畝部小学校
-  - team: 新C
-    date: 2026-02-08
-    time: 12：30 ～ 16：00
+  - date: 2026-02-15
+    team: C
+    time: 8:30〜イベント終了後解散
+    description: 10:30〜　トヨタレッドクルーザーズ感謝祭参加
+    location_text: 上郷コミセン
+  - team: D
+    date: 2026-02-14
+    time: 8:30〜12:00
     description: 練習
-    location_text: 富士精工グランド
-  - date: 2026-02-07
-    team: D
-    time: 8：30 ～ 12：00
+    location_text: 寿恵野小
+  - team: D
+    date: 2026-02-15
+    time: 8:30〜12:00
     description: 練習
-    location_text: 高嶺小学校
-  - team: 新D
-    date: 2026-02-08
-    time: 13：00 ～ 16：00
-    description: 練習
-    location_text: 高嶺小学校
+    location_text: 東グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
