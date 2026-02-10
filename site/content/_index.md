@@ -7,20 +7,15 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - team: ALL
-    date: 2026-02-07
-    time: 17：00 ～ 19：00
-    description: 卒団式💐
-    location_text: 上和会区民会館
-  - date: 2026-02-07
+  - date: 2026-02-14
     team: A
-    time: 8：30 ～ 15：00
-    description: AM：練習　　　　　　　　　　　　　　　　　　　　　　　　　　　　　PM：スタッフとの親善試合
+    time: 7：30 ～ 17:00
+    description: 練習試合VSボンフリー　　10:00  1試合目　　13:30 2試合目
     location_text: 高嶺小学校
-  - team: 新A
-    date: 2026-02-08
-    time: 8：00 ～ 17：00
-    description: 練習
+  - team: A
+    date: 2026-02-15
+    time: 7:15〜17:00
+    description: 春季大会VS美里チャレンジBC  10:50〜　　　　　　　　　　試合終了後練習
     location_text: 高嶺小学校
   - team: B
     date: 2026-02-07
