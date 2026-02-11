@@ -10,7 +10,7 @@ schedule:
   - date: 2026-02-14
     team: A
     time: 7：30 ～ 17:00
-    description: 練習試合VSボンフリー　　10:00  1試合目　　13:30 2試合目
+    description: 練習試合　VSボンフリー　　10:00  1試合目　　13:30 2試合目
     location_text: 高嶺小学校
   - team: A
     date: 2026-02-15
