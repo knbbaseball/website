@@ -19,14 +19,14 @@ schedule:
     location_text: 高嶺小学校
   - team: B
     date: 2026-02-07
-    time: 7：30 ～ 11：00
-    description: Cチーム戦
-    location_text: 畝部小学校
-  - team: B
-    date: 2026-02-07
     time: 9：15 ～
     description: 試合開始
     location_text: 上郷コミュニティセンター
+  - team: B
+    date: 2026-02-07
+    time: 7：30 ～ 11：00
+    description: Cチーム戦
+    location_text: 畝部小学校
   - date: 2026-02-14
     team: C
     time: 8:00〜16:30
@@ -39,7 +39,7 @@ schedule:
     location_text: 上郷コミセン
   - team: D
     date: 2026-02-14
-    time: 8:30〜12:00
+    time: 13:00〜16:00
     description: 練習
     location_text: 寿恵野小
   - team: D
