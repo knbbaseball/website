@@ -7,15 +7,15 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-02-14
+  - date: 2026-02-21
     team: A
-    time: 7:30 ～ 17:00
-    description: 練習試合　VSボンフリー　　10:00  1試合目　　13:30 2試合目
+    time: 8:00 ～ 17:00
+    description: 練習
     location_text: 高嶺小学校
   - team: A
-    date: 2026-02-15
-    time: 7:15〜17:00
-    description: 春季大会VS美里チャレンジBC  10:50〜　　　　　　　　　　試合終了後練習
+    date: 2026-02-22
+    time: 6:30〜15:30
+    description: 春季大会VS逢妻ファイターズ  9:00〜　　　　　　　　　　　　試合終了後練習
     location_text: 高嶺小学校
   - team: B
     date: 2026-02-07
@@ -27,16 +27,16 @@ schedule:
     time: 7:30 ～ 11：00
     description: Cチーム戦
     location_text: 畝部小学校
-  - date: 2026-02-14
+  - date: 2026-02-21
     team: C
-    time: 8:00〜16:30
+    time: 8:30〜16:30
     description: 練習
     location_text: 畝部小学校
-  - date: 2026-02-15
+  - date: 2026-02-22
     team: C
-    time: 8:30〜イベント終了後解散
-    description: 10:30〜　トヨタレッドクルーザーズ感謝祭参加
-    location_text: 上郷コミセン
+    time: 8:30〜16:30
+    description: 練習
+    location_text: 寿恵野小
   - team: D
     date: 2026-02-14
     time: 13:00〜16:00
