@@ -25,7 +25,7 @@ schedule:
   - team: B
     date: 2026-02-22
     time: 8:30 ～ 16:30　　　
-    description: 練習試合VS矢南アローズ　　　　　　　　　　1試合目10:00〜　　2試合目13:30〜
+    description: 練習試合VS矢南アローズ　　　　　　　　　　　　　　　　　　　1試合目10:00〜　　2試合目13:30〜
     location_text: 畝部小学校
   - date: 2026-02-21
     team: C
