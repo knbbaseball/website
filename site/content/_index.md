@@ -18,14 +18,14 @@ schedule:
     description: 春季大会VS逢妻ファイターズ  9:00〜　　　　　　　　　　　　試合終了後練習
     location_text: 高嶺小学校
   - team: B
-    date: 2026-02-07
-    time: 9:15 ～
-    description: 試合開始
+    date: 2026-02-21
+    time: 9:00〜16:30
+    description: 練習
     location_text: 上郷コミュニティセンター
   - team: B
-    date: 2026-02-07
-    time: 7:30 ～ 11：00
-    description: Cチーム戦
+    date: 2026-02-22
+    time: 8:30 ～ 16:30　　　
+    description: 練習試合VS矢南アローズ　　　1試合目10:00〜　　2試合目13:30〜
     location_text: 畝部小学校
   - date: 2026-02-21
     team: C
@@ -38,13 +38,13 @@ schedule:
     description: 練習
     location_text: 寿恵野小
   - team: D
-    date: 2026-02-14
-    time: 13:00〜16:00
+    date: 2026-02-21
+    time: 9:00〜12:00
     description: 練習
     location_text: 寿恵野小
   - team: D
-    date: 2026-02-15
-    time: 8:30〜12:00
+    date: 2026-02-22
+    time: 9:00〜12:00
     description: 練習
     location_text: 東グラウンド
 info:
