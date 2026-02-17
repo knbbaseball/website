@@ -9,7 +9,7 @@ banner: ただいま 4年生　～　1年生大募集中！！まずは体験か
 schedule:
   - date: 2026-02-21
     team: A
-    time: 8:00 ～ 17:00
+    time: 8:00〜17:00
     description: 練習
     location_text: 高嶺小学校
   - team: A
@@ -24,7 +24,7 @@ schedule:
     location_text: 上郷コミュニティセンター
   - team: B
     date: 2026-02-22
-    time: 8:30 ～ 16:30　　　
+    time: 8:30〜16:30　　　
     description: 練習試合VS矢南アローズ　　　　　　　　　　　　　　　　　　　1試合目10:00〜　　2試合目13:30〜
     location_text: 畝部小学校
   - date: 2026-02-21
