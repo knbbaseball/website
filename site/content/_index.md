@@ -31,7 +31,7 @@ schedule:
     team: C
     time: 8:30〜16:30
     description: 練習
-    location_text: 畝部小学校
+    location_text: 畝部小
   - date: 2026-03-01
     team: C
     time: 8:30〜16:30
