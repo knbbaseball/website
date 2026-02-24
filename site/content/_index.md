@@ -18,15 +18,15 @@ schedule:
     description: 春季大会VS山之手少年野球クラブ  12:40〜　　　　　　　　　　　　試合終了後解散
     location_text: 高嶺小学校
   - team: B
-    date: 2026-02-21
+    date: 2026-02-28
     time: 9:00〜16:30
     description: 練習
     location_text: 上郷コミュニティセンター
   - team: B
-    date: 2026-02-22
-    time: 8:30〜16:30　　　
-    description: 練習試合VS矢南アローズ　　　　　　　　　　　　　　　　　　　1試合目10:00〜　　2試合目13:30〜
-    location_text: 畝部小学校
+    date: 2026-03-01
+    time: 9:00〜16:30　　　
+    description: 練習
+    location_text: 富士精工グラウンド
   - date: 2026-02-28
     team: C
     time: 8:30〜16:30
