@@ -38,15 +38,15 @@ schedule:
     description: 練習
     location_text: 畝部小
   - team: D
-    date: 2026-02-21
-    time: 9:00〜12:00
+    date: 2026-02-28
+    time: 8:30〜12:30
     description: 練習
     location_text: 寿恵野小
   - team: D
     date: 2026-02-22
-    time: 9:00〜12:00
+    time: 8:30〜12:30
     description: 練習
-    location_text: 東グラウンド
+    location_text: 寿恵野小
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
