@@ -18,15 +18,15 @@ schedule:
     description: 春季大会VS水源パイレーツ　10:50　　　　　　　　　　　試合終了後解散
     location_text: 集合　高嶺小学校　試合会場　柳川瀬児童野球場
   - team: B
-    date: 2026-02-28
-    time: 9:00〜16:30
-    description: 練習
-    location_text: 上郷コミュニティセンター
-  - team: B
-    date: 2026-03-01
-    time: 9:00〜16:30　　　
-    description: 練習
+    date: 2026-03-07
+    time: 8:30〜16:00
+    description: 練習試合VSボンフリー　　14:00〜
     location_text: 富士精工グラウンド
+  - team: B
+    date: 2026-03-08
+    time: 8:30〜試合終了後解散　　　
+    description: 練習試合VS鳴海シャーク　14:30〜
+    location_text: 畝部小学校→千鳥丘中学校
   - date: 2026-03-07
     team: C
     time: 9:00〜16:30
@@ -38,15 +38,15 @@ schedule:
     description: 練習→Aチーム応援→練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-02-28
+    date: 2026-03-07
     time: 8:30〜12:30
     description: 練習
     location_text: 寿恵野小
   - team: D
-    date: 2026-02-22
-    time: 8:30〜12:30
-    description: 練習
-    location_text: 寿恵野小
+    date: 2026-03-08
+    time: 8:30〜10:00
+    description: 練習→Aチーム応援10:30〜（応援は希望者のみ）
+    location_text: 東グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
