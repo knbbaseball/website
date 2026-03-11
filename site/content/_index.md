@@ -7,46 +7,46 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-03-07
+  - date: 2026-03-14
     team: A
-    time: 7:30〜17:00
-    description: 練習試合VS三河スターズ　10:00～
-    location_text: 集合　高嶺小学校　試合会場　高嶺小学校
+    time: 7:30〜15:30
+    description: 東海団地VS大手キッズドラゴン　13:00～
+    location_text: 集合　高嶺小学校　試合会場　草刈公園
   - team: A
-    date: 2026-03-08
-    time: 7:30〜17:30
-    description: 春季大会VS水源パイレーツ　10:50　　　　　　　　　　　試合終了後解散
-    location_text: 集合　高嶺小学校　試合会場　柳川瀬児童野球場
+    date: 2026-03-15
+    time: 8:00〜17:00
+    description: 練習
+    location_text: 高嶺小学校
   - team: B
-    date: 2026-03-07
-    time: 8:30〜16:00
-    description: 練習試合VSボンフリー　　14:00〜
-    location_text: 富士精工グラウンド
+    date: 2026-03-14
+    time: 9:00〜16:30
+    description: 練習
+    location_text: 上郷コミュニティセンター
   - team: B
-    date: 2026-03-08
-    time: 8:30〜試合終了後解散　　　
-    description: 練習試合VS鳴海シャーク　14:30〜
-    location_text: 畝部小学校→千鳥丘中学校
-  - date: 2026-03-07
+    date: 2026-03-15
+    time: 9:00〜16:30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2026-03-14
     team: C
     time: 9:00〜16:30
     description: 練習
     location_text: 畝部小学校
-  - date: 2026-03-08
+  - date: 2026-03-15
     team: C
-    time: 8:30〜16:30
-    description: 練習→Aチーム応援→練習
+    time: 9:00〜16:30
+    description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-03-07
+    date: 2026-03-14
     time: 8:30〜12:30
     description: 練習
     location_text: 寿恵野小
   - team: D
-    date: 2026-03-08
-    time: 8:30〜10:00
-    description: 練習→Aチーム応援10:30〜（応援は希望者のみ）
-    location_text: 東グラウンド
+    date: 2026-03-15
+    time: 8:30〜12:30
+    description: 練習
+    location_text: 高嶺小学校（南側）
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
