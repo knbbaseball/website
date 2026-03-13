@@ -15,7 +15,7 @@ schedule:
   - team: A
     date: 2026-03-15
     time: 8:00〜17:00
-    description: 練習
+    description: 練習試合VS岡崎ポパイ　　10:00〜
     location_text: 高嶺小学校
   - team: B
     date: 2026-03-14
