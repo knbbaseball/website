@@ -25,7 +25,7 @@ schedule:
   - team: B
     date: 2026-03-22
     time: 9:00〜16:30
-    description: 練習
+    description: 練習　　（途中OB甲子園TV応援　大垣日大VS近江）
     location_text: 畝部小学校
   - date: 2026-03-21
     team: C
