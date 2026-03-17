@@ -16,7 +16,7 @@ schedule:
     date: 2026-03-22
     time: 8:30〜16:30
     description: スポーツ少年団VS豊田合同　　14:00〜　　
-    location_text: 練習　高嶺小学校　　　　　　　　　  　試合会場　柳川瀬児童野球場
+    location_text: 練習　高嶺小学校　　　　　　　　　  　　　試合会場　柳川瀬児童野球場
   - team: B
     date: 2026-03-21
     time: 9:00〜16:30
