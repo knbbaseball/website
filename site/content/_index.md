@@ -15,8 +15,8 @@ schedule:
   - team: A
     date: 2026-03-22
     time: 8:30〜16:30
-    description: スポーツ少年団VS豊田合同　　14:00〜
-    location_text: 練習　高嶺小学校　　試合会場　柳川瀬児童野球場
+    description: スポーツ少年団VS豊田合同　　14:00〜　　
+    location_text: 練習　高嶺小学校　　　　　　　　　　　試合会場　柳川瀬児童野球場
   - team: B
     date: 2026-03-21
     time: 9:00〜16:30
@@ -25,7 +25,7 @@ schedule:
   - team: B
     date: 2026-03-22
     time: 9:00〜16:30
-    description: 練習　　（途中OB甲子園TV応援　大垣日大VS近江）
+    description: 練習（途中OB甲子園TV応援　大垣日大VS近江）
     location_text: 畝部小学校
   - date: 2026-03-21
     team: C
@@ -35,7 +35,7 @@ schedule:
   - date: 2026-03-22
     team: C
     time: 9:00〜16:30
-    description: 練習　　（途中OB甲子園TV応援　大垣日大VS近江）
+    description: 練習（途中OB甲子園TV応援　大垣日大VS近江）
     location_text: 寿恵野小学校
   - team: D
     date: 2026-03-14
