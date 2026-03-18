@@ -38,15 +38,15 @@ schedule:
     description: 練習(途中OB甲子園TV応援　大垣日大VS近江)
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-03-14
+    date: 2026-03-21
     time: 8:30〜12:30
     description: 練習
     location_text: 寿恵野小
   - team: D
-    date: 2026-03-15
-    time: 8:30〜12:30
-    description: 練習
-    location_text: 高嶺小学校（南側）
+    date: 2026-03-22
+    time: 10:40〜16:00
+    description: OB甲子園TV応援後(大垣日大VS近江) 　　　13:00〜練習
+    location_text: 東グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
