@@ -7,16 +7,17 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-03-21
+  - date: 2026-03-28
     team: A
+    time: 7:15〜17:00
+    description: 東海団地VS知立サウス　　12:00〜
+    location_text: 練習　高嶺小学校　　　　　　　　　　　　試合　草刈公園　　　試合終了後、高嶺小練習　　
+    location_url: 　
+  - team: A
+    date: 2026-03-29
     time: 8:30〜17:00
     description: 練習
-    location_text: 高嶺小学校
-  - team: A
-    date: 2026-03-22
-    time: 8:30〜16:30
-    description: スポーツ少年団VS豊田合同　　14:00〜　　
-    location_text: 練習　高嶺小学校　　　　　　　　　  　　　試合会場　柳川瀬児童野球場
+    location_text: 練習　高嶺小学校　　　　　　　　　  　　
   - team: B
     date: 2026-03-21
     time: 9:00〜16:30
@@ -27,15 +28,15 @@ schedule:
     time: 9:00〜16:30
     description: 練習(途中OB甲子園TV応援　大垣日大VS近江)
     location_text: 畝部小学校
-  - date: 2026-03-21
+  - date: 2026-03-28
     team: C
     time: 9:00〜16:30
     description: 練習
     location_text: 畝部小学校
-  - date: 2026-03-22
+  - date: 2026-03-29
     team: C
     time: 9:00〜16:30
-    description: 練習(途中OB甲子園TV応援　大垣日大VS近江)
+    description: 練習
     location_text: 寿恵野小学校
   - team: D
     date: 2026-03-21
