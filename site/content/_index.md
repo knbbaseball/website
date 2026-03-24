@@ -11,7 +11,7 @@ schedule:
     team: A
     time: 7:15〜17:00
     description: 東海団地VS知立サウス　　12:00〜
-    location_text: 練習　高嶺小学校　　　　　　　　　　　　試合　草刈公園　　　試合終了後、高嶺小練習　　
+    location_text: 練習　高嶺小学校　　　　　　　　　　　　試合　草刈公園　　試合終了後、高嶺小練習　　
     location_url: 　
   - team: A
     date: 2026-03-29
