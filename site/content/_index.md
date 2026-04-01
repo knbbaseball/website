@@ -7,47 +7,47 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-03-28
+  - date: 2026-04-04
     team: A
-    time: 7:15〜17:00
-    description: 東海団地VS知立サウス　　12:00〜
-    location_text: 練習　高嶺小学校　　　　　　　　　　　　試合　草刈公園　　試合終了後、高嶺小練習　　
-    location_url: 　
-  - team: A
-    date: 2026-03-29
     time: 8:30〜17:00
     description: 練習
-    location_text: 練習　高嶺小学校　　　　　　　　　  　　
+    location_text: 富士精工グラウンド　
+    location_url: 　
+  - team: A
+    date: 2026-04-05
+    time: 7:15〜17:00
+    description: スポーツ少年団VS逢妻ファイターズ　　10:20〜　　
+    location_text: 練習　畝部小学校　　　試合　柳川瀬児童野球場　　　　　　　　  　　
   - team: B
-    date: 2026-03-28
+    date: 2026-04-04
     time: 9:00〜16:30
     description: 練習
     location_text: 上郷コミュニティセンター
   - team: B
-    date: 2026-03-29
-    time: 9:00〜16:30
-    description: 練習
-    location_text: 畝部小学校
-  - date: 2026-03-28
+    date: 2026-04-05
+    time: 7:45出発〜ミーティング終了後解散
+    description: 午前ふれあい予選　10:30〜                  　午後練習試合VSホワイトレッズ    14:00〜
+    location_text: ふれあい試合会場　　大高緑地公園　　練習試合会場　　名古屋市立熊の前小学校
+  - date: 2026-04-04
     team: C
-    time: 9:00〜16:30
-    description: 練習
-    location_text: 畝部小学校
+    time: 11:00〜15:00
+    description: BBQ
+    location_text: 小林農園
   - date: 2026-03-29
     team: C
     time: 9:00〜16:30
-    description: 練習
-    location_text: 寿恵野小学校
+    description: 練習　10:00〜Aチーム応援
+    location_text: 東グラウンド
   - team: D
-    date: 2026-03-28
-    time: 8:30〜12:30
-    description: 練習
-    location_text: 寿恵野小
+    date: 2026-04-04
+    time: 11:00〜15:00
+    description: BBQ
+    location_text: 小林農園
   - team: D
-    date: 2026-03-29
-    time: 8:00〜12:30
+    date: 2026-04-05
+    time: 9:00〜12:30
     description: 練習
-    location_text: 高嶺小学校（南側）
+    location_text: 畝部小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
