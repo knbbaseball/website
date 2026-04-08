@@ -21,7 +21,7 @@ schedule:
   - team: B
     date: 2026-04-11
     time: 9:00〜16:30
-    description: ふれあい予選VS青木グレート　　　　　　　10:00〜
+    description: ふれあい予選VS青木グレート　　　　　　　　10:00〜
     location_text: 上郷コミュニティセンター
   - team: B
     date: 2026-04-12
