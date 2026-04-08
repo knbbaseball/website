@@ -11,13 +11,13 @@ schedule:
     team: A
     time: 8:30〜17:00
     description: 練習
-    location_text: 高嶺小学校　　　　　　　　
+    location_text: 高嶺小学校
     location_url: 　
   - team: A
     date: 2026-04-12
     time: 7:15〜17:00
     description: スポーツ少年団VS山之手少年野球クラブ　　10:20〜　　
-    location_text: 練習　高嶺小学校　　　　試合　柳川瀬児童野球場　　　　　　　　  　　
+    location_text: 練習　高嶺小学校　　　　　　　　　　　試合　柳川瀬児童野球場　　　　　　　　  　　
   - team: B
     date: 2026-04-11
     time: 9:00〜16:30
