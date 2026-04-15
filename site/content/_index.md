@@ -7,40 +7,40 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-04-11
+  - date: 2026-04-18
     team: A
-    time: 8:30〜17:00
-    description: 練習
-    location_text: 高嶺小学校
+    time: 8:30〜16:00
+    description: 東海団地VS春日井オルティーズ　　14:00〜
+    location_text: 上郷コミュニティセンター
     location_url: 　
   - team: A
-    date: 2026-04-12
-    time: 7:15〜17:00
-    description: スポーツ少年団VS山之手少年野球クラブ　　10:20〜　　
-    location_text: 練習　高嶺小学校　　　　　　　　　　　試合　柳川瀬児童野球場　　　　　　　　  　　
+    date: 2026-04-19
+    time: 6:00〜15:00
+    description: スポーツ少年団VSドリームボーイズ　　8:30〜　             　試合終了後練習
+    location_text: 試合　柳川瀬児童野球場　　　　　　　　  　　　　　　　練習　高嶺小学校　　
   - team: B
-    date: 2026-04-11
-    time: 9:00〜16:30
-    description: ふれあい予選VS青木グレート　　　　　　　　10:00〜
-    location_text: 上郷コミュニティセンター
+    date: 2026-04-18
+    time: 9:00〜試合終了解散
+    description: ふれあい予選VS山之手少年野球クラブ　　　　　　　　14:30〜
+    location_text: 畝部小学校
   - team: B
-    date: 2026-04-12
+    date: 2026-04-19
     time: 9:00〜16:30
     description: 練習
     location_text: 畝部小学校
-  - date: 2026-04-11
+  - date: 2026-04-18
     team: C
     time: 9:00〜16:30
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2026-03-29
+    description: 10:00〜体験会　　　午後　練習
+    location_text: 高嶺小学校
+  - date: 2026-04-19
     team: C
-    time: 9:00〜16:30
-    description: 練習　10:00〜Aチーム応援　　試合終了後練習
+    time: 8:00〜16:30
+    description: 8:30〜Aチーム応援　　　       14:00〜午後  練習試合VS豊田虎
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-04-11
-    time: 8:30〜12:30
+    date: 2026-04-18
+    time: 9:00〜16:00
     description: 練習
     location_text: 高嶺小学校（南側）
   - team: D
