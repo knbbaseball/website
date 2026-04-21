@@ -16,18 +16,18 @@ schedule:
   - team: A
     date: 2026-04-26
     time: 8:00〜16:00
-    description: JAPAN カップ予選VS平山フレンダース　　10:30〜    午後　練習
+    description: JAPAN カップ予選VS平山フレンダース　10:30〜    午後　練習
     location_text: 高嶺小学校　　
     location_url: 7:30〜17:00
   - team: B
     date: 2026-04-25
     time: 8:00〜16:30
-    description: 午前  Aチームと合同　　　午後　Bチームのみで練習
+    description: 午前  Aチームと合同　　　　　　　　　　　午後　Bチームのみで練習
     location_text: 午前　高嶺小学校　午後　上郷コミニティセンター
   - team: B
     date: 2026-04-26
     time: 8:00〜16:30
-    description: 午前　ふれあい予選　　10:00〜     　　　　 午後　練習試合
+    description: 午前　ふれあい予選　　10:00〜     　　　　 　午後　練習試合
     location_text: 畝部小学校
   - date: 2026-04-25
     team: C
