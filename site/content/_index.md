@@ -40,15 +40,15 @@ schedule:
     description: 練習
     location_text: 高嶺小学校
   - team: D
-    date: 2026-04-18
-    time: 9:00〜16:00
-    description: 10:00〜体験会     午後 練習
-    location_text: 高嶺小学校（南側）
-  - team: D
-    date: 2026-04-12
-    time: 8:30〜12:30
+    date: 2026-04-25
+    time: 8:00〜12:00
     description: 練習
     location_text: 高嶺小学校（南側）
+  - team: D
+    date: 2026-04-26
+    time: 8:30〜12:00
+    description: 練習
+    location_text: 富士精工グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
