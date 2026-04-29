@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-04-25
+  - date: 2026-05-02
     team: A
     time: 8:00〜16:00
-    description: 練習
+    description: ふれあい予選VS崇化館JBC   10:30〜     午後練習
     location_text: 高嶺小学校　　　　　　　　　　
     location_url: 　
   - team: A
-    date: 2026-04-26
-    time: 8:00〜16:00
-    description: JAPAN カップ予選VS平山フレンダース　10:30〜    午後　練習
+    date: 2026-05-03
+    time: 7:15〜17:00
+    description: ろうきん杯開会式9:00〜     午後　練習
     location_text: 高嶺小学校　　
-    location_url: 7:30〜17:00
+    location_url: ""
   - team: B
-    date: 2026-04-25
-    time: 8:00〜16:30
-    description: 午前  Aチームと合同　　　　　　　　　　　午後　Bチームのみで練習
-    location_text: 午前　高嶺小学校　午後　上郷コミニティセンター
+    date: 2026-05-02
+    time: 7:000〜16:30
+    description: 積水カップ開会式9:00〜　　　　　午後 練習
+    location_text: 午後　上郷コミニティセンター
   - team: B
-    date: 2026-04-26
-    time: 8:00〜16:30
-    description: 午前　ふれあい予選　　10:00〜     　　　　 　午後　練習試合
-    location_text: 畝部小学校
-  - date: 2026-04-25
-    team: C
-    time: 8:300〜16:30
+    date: 2026-05-03
+    time: 8:30〜16:30
     description: 練習
     location_text: 畝部小学校
-  - date: 2026-04-26
+  - date: 2026-05-02
+    team: C
+    time: 8:30〜16:30
+    description: 午前　練習　　午後　練習試合VS松平ニューボーイズ
+    location_text: 畝部小学校
+  - date: 2026-05-03
     team: C
     time: 8:30〜16:30
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 寿恵野小学校
   - team: D
-    date: 2026-04-25
-    time: 8:00〜12:00
+    date: 2026-05-02
+    time: 8:00〜12:30
+    description: 練習
+    location_text: 寿恵野小学校
+  - team: D
+    date: 2026-05-03
+    time: 8:30〜12:30
     description: 練習
     location_text: 高嶺小学校（南側）
-  - team: D
-    date: 2026-04-26
-    time: 8:30〜12:00
-    description: 練習
-    location_text: 富士精工グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
