@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-05-16
+  - date: 2026-05-23
     team: A
-    time: 8:00〜16:30
-    description: 東海団地 準々決勝VS高蔵寺ユナイテッドBC    14:00〜
+    time: 8:00〜17:00
+    description: 練習
     location_text: 高嶺小学校　　　　　　　　　　
     location_url: 　
   - team: A
-    date: 2026-05-17
-    time: 6:40〜16:00
-    description: 夏季中日大会VS豊田虎　9:00〜        　午後　練習
-    location_text: 午前　新生公園　　　午後　高嶺小学校
+    date: 2026-05-24
+    time: 7:00〜17:00
+    description: 夏季中日大会VS山之手少年野球クラブ　10:20〜        　午後　練習
+    location_text: 午前　柳川瀬児童野球場　　　午後　高嶺小学校
     location_url: ""
   - team: B
-    date: 2026-05-16
+    date: 2026-05-23
     time: " 8:00〜16:30"
     description: 練習
     location_text: 上郷コミニティセンター
   - team: B
-    date: 2026-05-17
-    time: 8:00〜16:30
-    description: 10:00〜     KSリーグ予選VS蒲郡中部サニーボーイズ            13:00〜練習試合
-    location_text: 畝部小学校
-  - date: 2026-05-16
+    date: 2026-05-24
+    time: 8:300〜16:30
+    description: 午前　トヨタレッドクルーザーズオープン戦観戦　　午後　練習
+    location_text: 午前　トヨタスポーツセンター第一野球場　　午後　畝部小学校
+  - date: 2026-05-23
     team: C
-    time: 8:30〜16:30
-    description: 練習
-    location_text: 畝部小学校
-  - date: 2026-05-17
+    time: 9:00〜16:30
+    description: 午前　トヨタレッドクルーザーズオープン戦観戦　　午後　練習
+    location_text: 午前　トヨタスポーツセンター第一野球場　　午後　畝部小学校
+  - date: 2026-05-24
     team: C
-    time: 8:00〜15:30
-    description: ふれあいカップ予選VS岡崎南クラブ　　10:30〜         午後　練習試合VS岡崎南クラブ　13:30〜
-    location_text: 高力住民広場
+    time: 6:50〜16:30
+    description: JAPANカップ予選VS鷲塚ジャガーズ　　9:30〜         午後　練習
+    location_text: 午前　鷲塚小学校　　午後　寿恵野小学校
   - team: D
-    date: 2026-05-16
-    time: 8:00〜12:30
-    description: 練習
+    date: 2026-05-23
+    time: 2.3年生　8:00〜16:00  　　1年生　13:00〜16:00
+    description: 2.3年生　練習試合VSドリームボーイズ　10:30〜    　午後　練習　　　　　　　　1年生　練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-05-17
-    time: 2.3年生　8:00〜16:00　　　1年生　8:00〜12:00
-    description: 2.3年生　午前　練習　　　午後　練習試合VS13:30〜   2試合目15:00〜　　　　　　　　　1年生　練習
-    location_text: 2.3年生   西尾市中畑小学校　　　　1年生　高嶺小
+    date: 2026-05-24
+    time: 8:00〜12:30
+    description: 練習
+    location_text: 高嶺小学校（南側）
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
