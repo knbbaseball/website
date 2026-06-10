@@ -7,46 +7,46 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-05-30
+  - date: 2026-06-13
     team: A
-    time: 7:30〜17:10
-    description: 午前　練習　　午後　ろうきん杯VSゴールデンファイヤーズ　　14:30〜
-    location_text: 高嶺小学校→白水公園　　　　　　　　　　
+    time: 8:30〜17:00
+    description: 練習　
+    location_text: 高嶺小学校　　　
     location_url: 　
   - team: A
-    date: 2026-05-31
-    time: 7:00〜17:00
-    description: 夏季中日大会VS逢妻ファイターズ　10:20〜        　午後　練習
-    location_text: 午前　柳川瀬児童野球場　　　午後　高嶺小学校
+    date: 2026-06-14
+    time: 8:00〜17:00
+    description: ふれあい予選VS青木グレート　10:20〜        　午後　練習
+    location_text: 高嶺小学校
     location_url: ""
   - team: B
-    date: 2026-05-30
+    date: 2026-06-13
     time: " 8:30〜16:30"
-    description: 練習
+    description: 午前　練習　　　KSリーグ予選VS矢南アローズ　14:00〜
     location_text: 上郷コミニティセンター
   - team: B
-    date: 2026-05-31
-    time: 7:30〜16:30
-    description: 午前　JAPANカップVS矢田スターズ　　午後　練習
-    location_text: 午前　みなとまち緑地　　午後　畝部小学校
-  - date: 2026-05-30
-    team: C
-    time: 8:30〜16:30
-    description: 練習
+    date: 2026-06-14
+    time: 8:00〜16:30
+    description: 午前　北名古屋コミニケーション杯予選VS岩倉北ジャガーズ　10:30〜 　午後　練習
     location_text: 畝部小学校
-  - date: 2026-05-31
+  - date: 2026-06-13
     team: C
     time: 8:30〜16:30
+    description: ふれあい予選VS長久手少年野球クラブ　10:30〜    　　練習試試合VS長久手少年野球クラブ　13:30〜
+    location_text: 畝部小学校
+  - date: 2026-06-14
+    team: C
+    time: 12:30〜16:30
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-05-30
-    time: 8:00〜12:30
+    date: 2026-06-13
+    time: 8:00〜12:00
     description: 練習
-    location_text: 寿恵野小学校
+    location_text: 高嶺小学校（南側）
   - team: D
-    date: 2026-05-31
-    time: 8:00〜12:30
+    date: 2026-06-14
+    time: 8:00〜12:00
     description: 練習
     location_text: 高嶺小学校（南側）
 info:
