@@ -40,15 +40,15 @@ schedule:
     description: 午前　練習　午後　JAPANカップ予選VSキララボーイズ(横須賀公園)
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-06-13
+    date: 2026-06-20
     time: 8:00〜12:00
     description: 練習
-    location_text: 高嶺小学校（南側）
+    location_text: 富士精工
   - team: D
-    date: 2026-06-14
+    date: 2026-06-21
     time: 8:00〜12:00
     description: 練習
-    location_text: 高嶺小学校（南側）
+    location_text: 畝部小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
