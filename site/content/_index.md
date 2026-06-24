@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-06-20
+  - date: 2026-06-27
     team: A
-    time: 8:30〜17:00
-    description: 練習　
+    time: 8:30〜16:30
+    description: 午前　練習　午後　練習試合VS安城中央クラブ　　14:00〜
     location_text: 高嶺小学校　　　
     location_url: 　
   - team: A
-    date: 2026-06-21
+    date: 2026-06-28
     time: 7:00〜15:30
     description: 午前　練習　　午後　小幡旗VS豊田サンダース　14:10〜        　
     location_text: 高嶺小学校
     location_url: ""
   - team: B
-    date: 2026-06-20
+    date: 2026-06-27
     time: " 8:00〜16:30"
-    description: JAPANカップ予選VS形原アトムズ　10:30〜　　練習試合VS形原アトムズ　14:00〜
-    location_text: 上郷コミニティセンター
+    description: 午前  Aチームと合同　　　午後　Bチームのみで練習
+    location_text: 午前　高嶺小学校　　午後　上郷コミニティセンター
   - team: B
-    date: 2026-06-14
-    time: 7:30:00〜16:30
-    description: 開会式　バンテリンドーム　10:00〜　午後　練習
+    date: 2026-06-28
+    time: 8:30〜16:30
+    description: 午前　練習　午後　JAPANカップ予選VS美里チャレンジ　14:00〜
     location_text: 畝部小学校
-  - date: 2026-06-20
+  - date: 2026-06-27
+    team: C
+    time: 8:30〜16:30
+    description: 午前　ふれあい予選VS岡崎タフィーズ
+    location_text: 午前　富士精工　午後　畝部小学校
+  - date: 2026-06-28
     team: C
     time: 8:30〜16:30
     description: 練習
-    location_text: 畝部小学校
-  - date: 2026-06-21
-    team: C
-    time: 8:30〜16:30
-    description: 午前　練習　午後　JAPANカップ予選VSキララボーイズ(横須賀公園)
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-06-20
-    time: 8:00〜12:00
-    description: 練習
-    location_text: 富士精工
+    date: 2026-06-27
+    time: 8:00〜16:00
+    description: 午前　A.B合同練習　午後Dチームのみで練習
+    location_text: 午前　高嶺小学校　午後　寿恵野小学校
   - team: D
-    date: 2026-06-21
-    time: 8:00〜12:00
-    description: 練習
-    location_text: 畝部小学校
+    date: 2026-06-28
+    time: 7:30〜12:00
+    description: 午前　ふれあい予選VS堤スターズ　9:45〜  11:15〜  2試合予定　　　午後　練習
+    location_text: 午前　高嶺小学校→西岡ふれあい広場　　午後　高嶺小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
