@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-06-27
+  - date: 2026-07-04
     team: A
-    time: 8:30〜16:30
-    description: 午前　練習　午後　練習試合VS安城中央クラブ　　14:00〜
-    location_text: 高嶺小学校　　　
+    time: 6:00〜15:00
+    description: 午前　小幡旗VS豊田サンダース　8:30〜　午後 練習
+    location_text: 試合　柳川瀬児童野球場　練習　高嶺小学校　　　
     location_url: 　
   - team: A
-    date: 2026-06-28
-    time: 7:00〜15:30
-    description: 午前　練習　　午後　小幡旗VS豊田サンダース　14:10〜        　
-    location_text: 高嶺小学校
+    date: 2026-07-05
+    time: 8:00〜18:50
+    description: 午前　練習　　午後　スポーツデポ杯VS六田ファイターズ　   16:00〜　
+    location_text: 午前　高嶺小学校　　試合　旭ヶ丘グラウンドA面
     location_url: ""
   - team: B
-    date: 2026-06-27
-    time: " 8:00〜16:30"
-    description: 午前  Aチームと合同　　　午後　Bチームのみで練習
-    location_text: 午前　高嶺小学校　　午後　上郷コミニティセンター
+    date: 2026-07-04
+    time: " 8:30〜16:30"
+    description: 練習
+    location_text: 上郷コミニティセンター
   - team: B
-    date: 2026-06-28
+    date: 2026-07-05
     time: 8:30〜16:30
-    description: 午前　練習　午後　JAPANカップ予選VS美里チャレンジ　14:00〜
+    description: 午前 　KSリーグ予選VS矢田スターズ　10:30〜      午後　練習試合VS矢田スターズ     13:30〜
+    location_text: 富士精工グラウンド
+  - date: 2026-07-04
+    team: C
+    time: 8:30〜16:30
+    description: 午前　KSリーグ予選VS安城ファイヤードラゴン　10:00〜      午後　練習
     location_text: 畝部小学校
-  - date: 2026-06-27
+  - date: 2026-07-05
     team: C
     time: 8:30〜16:30
-    description: 午前　ふれあい予選VS岡崎タフィーズ
-    location_text: 午前　富士精工　午後　畝部小学校
-  - date: 2026-06-28
-    team: C
-    time: 8:30〜16:30
+    description: 午前　KSリーグ予選VS西岡クラブ　10:00〜 　午後　練習
+    location_text: 寿恵野小学校
+  - team: D
+    date: 2026-07-04
+    time: 8:00〜12:00
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-06-27
-    time: 8:00〜16:00
-    description: 午前　A.B合同練習　午後Dチームのみで練習
-    location_text: 午前　高嶺小学校　午後　寿恵野小学校
-  - team: D
-    date: 2026-06-28
-    time: 7:30〜12:00
-    description: 午前　ふれあい予選VS堤スターズ　9:45〜  11:15〜  2試合予定　　　午後　練習
-    location_text: 午前　高嶺小学校→西岡ふれあい広場　　午後　高嶺小学校
+    date: 2026-07-05
+    time: 8:30〜12:00
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
