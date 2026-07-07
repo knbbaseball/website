@@ -7,20 +7,20 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-07-04
+  - date: 2026-07-11
     team: A
-    time: 6:00〜15:00
-    description: 午前　小幡旗VS豊田サンダース　8:30〜　午後 練習
-    location_text: 試合　柳川瀬児童野球場　練習　高嶺小学校　　　
+    time: 8:00〜17:00
+    description: 練習
+    location_text: 高嶺小学校　　　
     location_url: 　
   - team: A
-    date: 2026-07-05
-    time: 8:00〜18:50
-    description: 午前　練習　　午後　スポーツデポ杯VS六田ファイターズ　   16:00〜　
-    location_text: 午前　高嶺小学校　　試合　旭ヶ丘グラウンドA面
+    date: 2026-07-12
+    time: 7:00〜17:00
+    description: 午前　練習試合VS品野ファイターズ　10:00〜        午後　練習
+    location_text: 午前　品野台小学校     午後　練習
     location_url: ""
   - team: B
-    date: 2026-07-04
+    date: 2026-07-11
     time: " 8:30〜16:30"
     description: 練習
     location_text: 上郷コミニティセンター
@@ -29,26 +29,26 @@ schedule:
     time: 8:30〜16:30
     description: 午前 　KSリーグ予選VS矢田スターズ　10:30〜      午後　練習試合VS矢田スターズ     13:30〜
     location_text: 富士精工グラウンド
-  - date: 2026-07-04
+  - date: 2026-07-11
     team: C
-    time: 8:30〜16:30
-    description: 午前　KSリーグ予選VS安城ファイヤードラゴン　10:00〜      午後　練習
-    location_text: 畝部小学校
-  - date: 2026-07-05
+    time: 8:30〜16:15
+    description: 午前　練習　　　　午後　KSリーグ予選VS矢作ベースボールクラブ　14:00〜
+    location_text: 午前　上郷コミニティセンター　　午後　矢作西小
+  - date: 2026-07-12
     team: C
-    time: 8:30〜16:30
-    description: 午前　KSリーグ予選VS西岡クラブ　10:00〜 　午後　練習
+    time: 8:00〜16:30
+    description: 午前　ふれあい予選VS逢妻ファイターズ　10:00〜 　午後　練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-07-04
-    time: 8:00〜12:00
+    date: 2026-07-11
+    time: 8:00〜13:00
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-07-05
-    time: 8:30〜12:00
-    description: 練習
-    location_text: 高嶺小学校
+    date: 2026-07-12
+    time: 8:30〜16:00
+    description: 午前　9:45〜11:05 1試合目　 　11:15〜12:00 2試合目　　午後　練習
+    location_text: 東グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
