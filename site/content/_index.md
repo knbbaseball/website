@@ -22,13 +22,13 @@ schedule:
   - team: B
     date: 2026-07-11
     time: " 8:30〜16:30"
-    description: 練習
-    location_text: 上郷コミニティセンター
+    description: 午前　練習　　　午後　ふれあい予選VS阿野ジュニア　14:00〜
+    location_text: 畝部小学校
   - team: B
-    date: 2026-07-05
-    time: 8:30〜16:30
-    description: 午前 　KSリーグ予選VS矢田スターズ　10:30〜      午後　練習試合VS矢田スターズ     13:30〜
-    location_text: 富士精工グラウンド
+    date: 2026-07-12
+    time: 8:00〜試合終了後　畝部小にて解散
+    description: 午前　練習　　午後　北名古屋コミニケーションカップ予選VS守山ボーイズ　14:00〜
+    location_text: 午前　畝部小学校　　午後　試合　志段味第一グラウンド
   - date: 2026-07-11
     team: C
     time: 8:30〜16:15
