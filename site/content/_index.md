@@ -9,8 +9,8 @@ banner: ただいま 4年生　～　1年生大募集中！！まずは体験か
 schedule:
   - date: 2026-07-11
     team: A
-    time: 8:00〜17:00
-    description: 練習
+    time: 7:30〜16:30
+    description: 練習試合VS福地ファイターズ　10:00〜　　　午後 　2試合目14:00〜
     location_text: 高嶺小学校　　　
     location_url: 　
   - team: A
