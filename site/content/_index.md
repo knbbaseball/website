@@ -10,7 +10,7 @@ schedule:
   - date: 2026-07-11
     team: A
     time: 7:30〜16:30
-    description: 練習試合VS福地ファイターズ　10:00〜　　　午後 　2試合目14:00〜
+    description: 練習試合VS福地ファイターズ　10:00〜　　　午後 　練習
     location_text: 高嶺小学校　　　
     location_url: 　
   - team: A
