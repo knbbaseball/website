@@ -7,48 +7,49 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-07-11
+  - date: 2026-07-18
     team: A
-    time: 7:30〜16:30
-    description: 練習試合VS福地ファイターズ　10:00〜　　　午後 　練習
-    location_text: 高嶺小学校　　　
+    time: 6:00〜15:00
+    description: 小幡旗VS豊田サンボーイズ　　9:00〜　　　午後 　練習
+    location_text: 試合　新生公園　　練習　高嶺小学校　　　
     location_url: 　
   - team: A
-    date: 2026-07-12
-    time: 7:00〜17:00
-    description: 午前　練習試合VS品野ファイターズ　10:00〜        午後　練習
-    location_text: 午前　品野台小学校     午後　練習
+    date: 2026-07-19
+    time: 6:00〜15:00　土曜日勝利の場合
+    description: 土曜日　勝利の場合　   小幡旗 8:30〜　　     午後　練習
+    location_text: 試合　柳川瀬児童野球場   　午後　高嶺小学校
     location_url: ""
   - team: B
-    date: 2026-07-11
-    time: " 8:30〜16:30"
-    description: 午前　練習　　　午後　ふれあい予選VS阿野ジュニア　14:00〜
-    location_text: 畝部小学校
+    date: 2026-07-18
+    time: 7:45〜14:00ごろ
+    description: 午前　JAPANカップ予選VS形原アトムズ　　　試合終了後解散
+    location_text: 西浦グラウンド野球場
   - team: B
-    date: 2026-07-12
-    time: 8:00〜試合終了後　畝部小にて解散
-    description: 午前　練習　　午後　北名古屋コミニケーションカップ予選VS守山ボーイズ　14:00〜
-    location_text: 午前　畝部小学校　　午後　試合　志段味第一グラウンド
-  - date: 2026-07-11
-    team: C
-    time: 8:30〜16:15
-    description: 午前　練習　　　　午後　KSリーグ予選VS矢作ベースボールクラブ　14:00〜
-    location_text: 午前　上郷コミニティセンター　　午後　矢作西小
-  - date: 2026-07-12
-    team: C
+    date: 2026-07-19
     time: 8:00〜16:30
-    description: 午前　ふれあい予選VS逢妻ファイターズ　10:00〜 　午後　練習
+    description: 午前　練習　　午後　北名古屋コミニケーションカップ予選VS福地ファイターズ　14:00〜
+    location_text: 畝部小学校　
+  - date: 2026-07-18
+    team: C
+    time: 8:30〜16:30
+    description: 練習　　　　
+    location_text: 畝部小学校
+  - date: 2026-07-19
+    team: C
+    time: 7:15〜16:30
+    description: 午前　チャレンジカップ予選VS山之手少年野球クラブ　　9:00〜  　午後　練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-07-11
-    time: 8:00〜13:00
+    date: 2026-07-18
+    time: 8:00〜16:00
+    description: 9:45〜11:05 1試合目　 　→ふれあいルール 　　5イニング 　　イニングコールド5点 11:15〜12:00 2試合目　
+      　→ティーボールゲーム 　　3イニング 　　イニングコールド3点 試合後昼食 13時頃練習再開
+    location_text: 寿恵野小学校
+  - team: D
+    date: 2026-07-19
+    time: 8:30〜16:00　　2.3年生　　　8:00〜12:001年生
     description: 練習
     location_text: 寿恵野小学校
-  - team: D
-    date: 2026-07-12
-    time: 8:30〜16:00
-    description: 午前　9:45〜11:05 1試合目　 　11:15〜12:00 2試合目　　午後　練習
-    location_text: 東グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
