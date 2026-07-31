@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-07-25
+  - date: 2026-08-01
     team: A
     time: 8:00〜17:00
     description: 練習
     location_text: 高嶺小学校　　　
     location_url: 　
   - team: A
-    date: 2026-07-26
-    time: 7:00〜16:00
-    description: 練習試合VS 新屋クラブ　　　第一試合　9:00〜　　第二試合　10:50〜       午後　練習
-    location_text: 試合　柳川瀬児童野球場   　午後　高嶺小学校
+    date: 2026-08-02
+    time: 8:00〜17:00
+    description: 練習
+    location_text: 高嶺小学校　　
     location_url: ""
   - team: B
-    date: 2026-07-25
-    time: 7:45〜16:00
-    description: 午前　KSリーグ予選VS矢作BBC　　　午後　練習
+    date: 2026-08-01
+    time: 7:30〜12:30
+    description: 練習
     location_text: 上郷コミニティセンター
   - team: B
-    date: 2026-07-26
-    time: 10:45〜15:00
-    description: 新人戦決起会
-    location_text: 小林農園
-  - date: 2026-07-25
-    team: C
-    time: 8:30〜16:30
-    description: 練習　　　　
+    date: 2026-08-02
+    time: 7:30〜12:30
+    description: 練習
     location_text: 畝部小学校
-  - date: 2026-07-26
+  - date: 2026-08-01
     team: C
-    time: 8:00〜16:30
-    description: 午前　KSリーグ予選VS岡崎南クラブ　　10:00〜  　午後　練習
-    location_text: 寿恵野小学校
+    time: 7:30〜11:00
+    description: KSリーグ予選VS鷲塚ジャガース　　9:30〜　　　　
+    location_text: 畝部小学校
+  - date: 2026-08-02
+    team: C
+    time: 7:30〜11:00
+    description: KSリーグ予選VS西尾クラブ　　9:30〜  　
+    location_text: 畝部小学校
   - team: D
-    date: 2026-07-25
+    date: 2026-08-01
     time: 8:00〜12:00
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-07-26
-    time: 8:00〜12:00
-    description: 練習
-    location_text: 畝部小学校
+    date: 2026-08-02
+    time: 7:30〜12:00
+    description: 練習試合VSドリームボーイズD2
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
