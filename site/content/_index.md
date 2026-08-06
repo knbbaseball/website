@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-08-01
+  - date: 2026-08-08
     team: A
-    time: 8:00〜17:00
+    time: 8:00〜13:00
     description: 練習
     location_text: 高嶺小学校　　　
     location_url: 　
   - team: A
-    date: 2026-08-02
-    time: 8:00〜17:00
-    description: 練習
-    location_text: 高嶺小学校　　
+    date: 2026-08-09
+    time: "-"
+    description: 休み
+    location_text: "-"
     location_url: ""
   - team: B
-    date: 2026-08-01
-    time: 7:30〜12:30
+    date: 2026-08-08
+    time: " 8:00〜13:00"
     description: 練習
-    location_text: 上郷コミニティセンター
+    location_text: 高嶺小学校
   - team: B
     date: 2026-08-02
-    time: 7:30〜12:30
+    time: 12:00〜17:00
     description: 練習
-    location_text: 畝部小学校
-  - date: 2026-08-01
+    location_text: 新生Bグラウンド
+  - date: 2026-08-08
     team: C
-    time: 7:30〜11:00
-    description: KSリーグ予選VS鷲塚ジャガース　　9:30〜　　　　
-    location_text: 畝部小学校
-  - date: 2026-08-02
+    time: 8:00〜12:30
+    description: 練習　
+    location_text: 寿恵野小学校
+  - date: 2026-08-09
     team: C
-    time: 7:30〜11:00
-    description: KSリーグ予選VS西尾クラブ　　9:30〜  　
-    location_text: 畝部小学校
+    time: 8:00〜12:30
+    description: 練習
+    location_text: 寿恵野小学校
   - team: D
-    date: 2026-08-01
+    date: 2026-08-08
     time: 8:00〜12:00
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-08-02
-    time: 7:30〜12:00
-    description: 練習試合VSドリームボーイズD2
-    location_text: 寿恵野小学校
+    date: 2026-08-09
+    time: 8:00〜12:00
+    description: 練習
+    location_text: 東グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
