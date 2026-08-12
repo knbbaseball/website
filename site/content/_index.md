@@ -7,29 +7,29 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-08-08
+  - date: 2026-08-15
     team: A
-    time: 8:00〜13:00
-    description: 練習
-    location_text: 高嶺小学校　　　
-    location_url: 　
-  - team: A
-    date: 2026-08-09
     time: "-"
     description: 休み
     location_text: "-"
+    location_url: 　
+  - team: A
+    date: 2026-08-16
+    time: 8:00〜13:00
+    description: 練習
+    location_text: 富士精工グラウンド
     location_url: ""
   - team: B
-    date: 2026-08-08
-    time: " 8:00〜13:00"
-    description: 練習
-    location_text: 高嶺小学校
+    date: 2026-08-15
+    time: "-"
+    description: 休み
+    location_text: "-"
   - team: B
-    date: 2026-08-02
-    time: 12:00〜17:00
+    date: 2026-08-16
+    time: 11:00〜16:30
     description: 練習
-    location_text: 新生Bグラウンド
-  - date: 2026-08-08
+    location_text: 運動公園多目的A面
+  - date: 2026-08-15
     team: C
     time: 8:00〜12:30
     description: 練習　
@@ -40,7 +40,7 @@ schedule:
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-08-08
+    date: 2026-08-15
     time: 8:00〜12:00
     description: 練習
     location_text: 寿恵野小学校
@@ -48,7 +48,7 @@ schedule:
     date: 2026-08-09
     time: 8:00〜12:00
     description: 練習
-    location_text: 東グラウンド
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
