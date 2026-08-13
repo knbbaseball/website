@@ -31,14 +31,14 @@ schedule:
     location_text: 運動公園多目的A面
   - date: 2026-08-15
     team: C
-    time: 8:00〜12:30
-    description: 練習　
-    location_text: 寿恵野小学校
-  - date: 2026-08-09
+    time: "-"
+    description: 休み
+    location_text: "-"
+  - date: 2026-08-16
     team: C
-    time: 8:00〜12:30
-    description: 練習
-    location_text: 寿恵野小学校
+    time: "-"
+    description: 休み
+    location_text: "-"
   - team: D
     date: 2026-08-15
     time: 8:00〜12:00
