@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-08-15
+  - date: 2026-08-29
     team: A
     time: "-"
     description: 休み
     location_text: "-"
     location_url: 　
   - team: A
-    date: 2026-08-16
-    time: 8:00〜13:00
-    description: 練習
-    location_text: 富士精工グラウンド
+    date: 2026-08-30
+    time: "-"
+    description: レッドクルーザーズ応援in東京ドーム
+    location_text: "-"
     location_url: ""
   - team: B
-    date: 2026-08-15
-    time: "-"
-    description: 休み
-    location_text: "-"
+    date: 2026-08-29
+    time: 10時試合開始
+    description: 八幡クラブ(北名古屋コミュニケーション杯)
+    location_text: コミセン
   - team: B
-    date: 2026-08-16
-    time: 11:00〜16:30
+    date: 2026-08-30
+    time: "-"
     description: 練習
-    location_text: 運動公園多目的A面
-  - date: 2026-08-15
+    location_text: 畝部小
+  - date: 2026-08-29
     team: C
     time: "-"
-    description: 休み
-    location_text: "-"
-  - date: 2026-08-16
+    description: 練習
+    location_text: 畝部小
+  - date: 2026-08-30
     team: C
     time: "-"
-    description: 休み
+    description: 寿恵野小
     location_text: "-"
   - team: D
-    date: 2026-08-15
-    time: 8:00〜12:00
+    date: 2026-08-29
+    time: "-"
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-08-09
-    time: 8:00〜12:00
+    date: 2026-08-30
+    time: "-"
     description: 練習
-    location_text: 寿恵野小学校
+    location_text: 高嶺小
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
