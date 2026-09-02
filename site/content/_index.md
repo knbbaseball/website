@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-08-29
+  - date: 2026-09-05
     team: A
-    time: "-"
-    description: 休み
-    location_text: "-"
+    time: 8:00～17:00
+    description: 八幡クラブ（練習試合）　１３時試合
+    location_text: 高嶺小
     location_url: 　
   - team: A
-    date: 2026-08-30
-    time: "-"
-    description: レッドクルーザーズ応援in東京ドーム
-    location_text: "-"
+    date: 2026-09-06
+    time: 8:00～17:00
+    description: 碧南ライナーズ（ジャパンカップ予選）　１０時試合
+    location_text: 高嶺小
     location_url: ""
   - team: B
-    date: 2026-08-29
-    time: 10時試合開始
-    description: 八幡クラブ(北名古屋コミュニケーション杯)
-    location_text: コミセン
+    date: 2026-09-05
+    time: 8:30～16:30
+    description: 練習
+    location_text: 畝部小
   - team: B
-    date: 2026-08-30
-    time: "-"
-    description: 練習
-    location_text: 畝部小
-  - date: 2026-08-29
+    date: 2026-09-06
+    time: 7:30～16:30
+    description: 午前：新人戦開会式　午後：練習
+    location_text: 午前：豊田市運動公園　午後：畝部小
+  - date: 2026-09-05
     team: C
-    time: "-"
+    time: 8:30～16:30
     description: 練習
-    location_text: 畝部小
-  - date: 2026-08-30
+    location_text: 寿恵小
+  - date: 2026-09-06
     team: C
-    time: "-"
-    description: 寿恵野小
-    location_text: "-"
+    time: 8:00～16:30
+    description: 西尾クラブ（KSリーグ予選）１０時試合
+    location_text: 寿恵小
   - team: D
-    date: 2026-08-29
-    time: "-"
+    date: 2026-09-05
+    time: 8:30～16:00（1年生は12時まで）
     description: 練習
-    location_text: 寿恵野小学校
+    location_text: 寿恵野小
   - team: D
-    date: 2026-08-30
-    time: "-"
-    description: 練習
-    location_text: 高嶺小
+    date: 2026-09-06
+    time: 8:30～16:00(1年生は12時まで)
+    description: 日進少年野球クラブ(ふれあい予選)　10時試合/　午後練習　　　　※１年生は午前練習のみ※
+    location_text: 午前：畝部小　午後：寿恵野小
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
@@ -62,13 +62,6 @@ info:
 ---
 本年度も宜しくお願いします！！
 
+※体験は随時可能です！HPもしくはインスタDMにご連絡ください！
 
-※体験は随時可能です！お気軽にお越しください！！
-
-## 本年度入団者
-
-
-#### 【1/17】
-
-*前田理斗くん　 　1年生　若園小学校
 
