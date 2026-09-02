@@ -16,7 +16,7 @@ schedule:
   - team: A
     date: 2026-09-06
     time: 8:00～17:00
-    description: 碧南ライナーズ（ジャパンカップ予選）　１０時試合
+    description: 碧南ライナーズ（ジャパンカップ予選）　　　　　　　　　　１０時試合
     location_text: 高嶺小
     location_url: ""
   - team: B
@@ -47,7 +47,7 @@ schedule:
   - team: D
     date: 2026-09-06
     time: 8:30～16:00(1年生は12時まで)
-    description: 日進少年野球クラブ(ふれあい予選)　10時試合/　午後練習　　　　※１年生は午前練習のみ※
+    description: 日進少年野球クラブ(ふれあい予選)　　　　　　　10時試合/午後練習※１年生は午前練習のみ※
     location_text: 午前：畝部小　午後：寿恵野小
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
