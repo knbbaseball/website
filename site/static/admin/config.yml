@@ -7,11 +7,11 @@ backend:
   # https://community.netlify.com/t/git-gateway-error/12220/8
   branch: main
   commit_messages:
-    create: 'Create {{collection}} "{{slug}}"'
-    update: 'Update {{collection}} "{{slug}}"'
-    delete: 'Delete {{collection}} "{{slug}}"'
-    uploadMedia: '[skip ci] Upload "{{path}}"'
-    deleteMedia: '[skip ci] Delete "{{path}}"'
+    create: '{{collection}}「{{slug}}」を作成'
+    update: '{{collection}}「{{slug}}」を更新'
+    delete: '{{collection}}「{{slug}}」を削除'
+    uploadMedia: '[skip ci]「{{path}}」をアップロード'
+    deleteMedia: '[skip ci]「{{path}}」を削除'
 
 # https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 local_backend: true
