@@ -7,3 +7,11 @@ bin/bootstrap
 bin/setup
 bin/server
 ```
+
+Use the Node.js and Hugo versions in `.tool-versions`. `bin/setup` installs
+Bulma and the Dart Sass compiler from the lockfile. Run Hugo through the npm
+scripts so it can find the project's Sass compiler:
+
+```bash
+npm run --prefix site build
+```

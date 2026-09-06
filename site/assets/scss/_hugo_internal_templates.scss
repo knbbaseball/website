@@ -13,9 +13,9 @@
 
 .pagination li a {
   padding: 0.5rem 0.625rem;
-  background-color: $white;
-  color: $primary;
-  border: 1px solid $primary;
+  background-color: var(--bulma-white);
+  color: var(--bulma-primary);
+  border: 1px solid var(--bulma-primary);
   border-radius: 3px;
   text-decoration: none;
 }
@@ -27,7 +27,7 @@
 .pagination li.active a:link,
 .pagination li.active a:active,
 .pagination li.active a:visited {
-  background-color: $link;
-  color: $white;
+  background-color: var(--bulma-link);
+  color: var(--bulma-white);
   pointer-events: none;
 }

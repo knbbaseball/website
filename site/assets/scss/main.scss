@@ -1,7 +1,7 @@
 @charset "utf-8";
 
-@import 'bulma_custom';
-@import 'hugo_internal_templates';
+@use 'bulma_custom';
+@use 'hugo_internal_templates';
 
 body {
   min-height: 50vh;
@@ -10,8 +10,8 @@ body {
 
 .hero--page-header * {
   // https://bulma.io/documentation/overview/colors
-  background-color: $primary;
-  color: $white-ter;
+  background-color: var(--bulma-primary);
+  color: var(--bulma-white-ter);
 }
 
 // to avoid text content jumping around while image is loading

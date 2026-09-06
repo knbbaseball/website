@@ -18,12 +18,12 @@
 
   {{/* https://gohugo.io/hugo-pipes/scss-sass */}}
   {{ if hugo.IsServer }}
-    {{ $cssOpts := (dict "targetPath" "css/main.css" "enableSourceMap" true ) }}
-    {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts }}
+    {{ $cssOpts := (dict "targetPath" "css/main.css" "transpiler" "dartsass" "includePaths" (slice "node_modules") "enableSourceMap" true ) }}
+    {{ $styles := resources.Get "scss/main.scss" | css.Sass $cssOpts }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
   {{ else }}
-    {{ $cssOpts := (dict "targetPath" "css/main.css" ) }}
-    {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts | minify | fingerprint }}
+    {{ $cssOpts := (dict "targetPath" "css/main.css" "transpiler" "dartsass" "includePaths" (slice "node_modules") ) }}
+    {{ $styles := resources.Get "scss/main.scss" | css.Sass $cssOpts | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
   {{ end }}
 
