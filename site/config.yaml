@@ -1,8 +1,10 @@
 # https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL: '/'
-languageCode: ja
+baseURL: 'https://knbbaseball.netlify.app/'
+defaultContentLanguage: 'ja'
+locale: 'ja-JP'
+timeZone: 'Asia/Tokyo'
 title: 上郷ノーティボーイズ
-Copyright: 上郷ノーティボーイズ
+copyright: 上郷ノーティボーイズ
 googleAnalytics: UA-177386393-1
 enableRobotsTXT: true
 hasCJKLanguage: true
