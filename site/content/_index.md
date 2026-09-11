@@ -31,9 +31,9 @@ schedule:
     location_text: 富士精工グラウンド
   - date: 2026-09-05
     team: C
-    time: 8:20～16:30
-    description: ふれあい予選VS岡崎タフィーズVS10:00〜    午後　練習
-    location_text: 富士精工グラウンド
+    time: 8:15～16:30
+    description: ふれあい予選VS岡崎タフィーズVS10:30〜    午後　練習
+    location_text: 畝部小学校
   - date: 2026-09-13
     team: C
     time: 12:00～16:30
