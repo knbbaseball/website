@@ -7,38 +7,38 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-09-12
+  - date: 2026-09-19
     team: A
-    time: 8:00～17:00
+    time: 8:00～12:30
     description: 練習
-    location_text: 柳川瀬児童野球場
+    location_text: 高嶺小学校
     location_url: 　
   - team: A
-    date: 2026-09-13
+    date: 2026-09-20
     time: 7:30～17:00
-    description: 東海団地VS中小田井　　　10:00〜
+    description: 午前：東海団地VS中小田井　10:00〜    午後：練習
     location_text: 高嶺小
     location_url: ""
   - team: B
-    date: 2026-09-12
-    time: 7:45〜17:00
-    description: "JAPANCUP VS美里チャレンジBC 10:00〜   午後 : 練習"
-    location_text: 試合　広川台小　　練習　高嶺小
+    date: 2026-09-19
+    time: 7:00〜17:00
+    description: "午前：積水ハウスカップVS豊田合同 10:50〜   午後 : 練習"
+    location_text: 試合　地域文化広場A面　　練習　上郷コミニティーセンター
   - team: B
     date: 2026-09-13
-    time: 8:00～16:30
-    description: 午前：練習　午後：KSリーグVS鷲塚ジャガース
-    location_text: 富士精工グラウンド
-  - date: 2026-09-05
+    time: 6:50～16:30
+    description: 午前：新人戦VS豊田サンボーイズ　9:00〜　午後：練習
+    location_text: 試合：新生グラウンド　　練習：畝部小学校
+  - date: 2026-09-19
     team: C
-    time: 8:15～16:30
-    description: ふれあい予選VS岡崎タフィーズVS10:30〜    午後　練習
-    location_text: 畝部小学校
-  - date: 2026-09-13
-    team: C
-    time: 12:00～16:30
+    time: 8:30～16:30
     description: 練習
-    location_text: 畝部小
+    location_text: 畝部小学校
+  - date: 2026-09-20
+    team: C
+    time: 8:30～16:30
+    description: 午前：チャレンジカップVS堤スターズ　　午後：練習
+    location_text: 試合：新生グラウンド　練習：寿恵野小学校
   - team: D
     date: 2026-09-05
     time: 8:30～16:00（1年生は12時まで）
