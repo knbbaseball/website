@@ -41,14 +41,14 @@ schedule:
     location_text: 試合：新生グラウンド　練習：寿恵野小学校
   - team: D
     date: 2026-09-05
-    time: 8:30～16:00（1年生は12時まで）
+    time: 8:30～16:00（1年生は12時まで）(3年生はｃチームと合同)
     description: 練習
-    location_text: 高嶺小
+    location_text: 寿恵野小学校(3年生は畝部小学校)
   - team: D
     date: 2026-09-13
-    time: 7:45～13:30(1年生は8:30〜12:00まで)
-    description: ふれあい予選VS長久手少年野球クラブ　10:30〜 　※１年生は午前練習のみ※
-    location_text: 長久手南小　(１年生は畝部小)
+    time: 8:30〜16:00(1年生は8:30〜12:00まで)
+    description: 練習
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
