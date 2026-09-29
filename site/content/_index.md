@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-09-26
+  - date: 2026-10-03
     team: A
-    time: 8:00～17:00
-    description: 練習   (AM:レッドクルーザーズ)
-    location_text: 柳川瀬野球場
+    time: 6:30～15:00
+    description: "午前：ミズノワイズ杯VS河原サンボーイズ　9:00〜     午後：練習  "
+    location_text: 試合：旭ヶ丘グラウンド　　練習：高嶺小
     location_url: 　
   - team: A
-    date: 2026-09-27
-    time: 8:000～17:00
-    description: 午前：練習　　　午後：ふれあい予選VS竜神JBCVS中小田井　14:00〜
+    date: 2026-10-04
+    time: 7:30〜17:00
+    description: 午前：東海団地VSチーターレンジャーズ　10:00〜　　午後：練習
     location_text: 高嶺小
     location_url: ""
   - team: B
-    date: 2026-09-26
-    time: 8:00〜17:00
-    description: "午前：練習(レッドクルーザーズ)   午後 : KSリーグVS矢田スターズ　14：30〜"
-    location_text: 午前：柳川瀬野球場　　午後：畝部小学校
+    date: 2026-10-03
+    time: 9:15〜16:30
+    description: "午前：練習試合VS三河スターズ   午後 : 練習試合2試合目VS三河スターズ　13:45〜"
+    location_text: 富士精工グラウンド
   - team: B
-    date: 2026-09-27
-    time: 6:50～16:30
-    description: 午前：新人戦VS松平ニューボーイズ　8:30〜　午後：練習
-    location_text: 試合：柳川瀬児童野球場　　練習：畝部小学校
-  - date: 2026-09-26
+    date: 2026-10-04
+    time: 未定
+    description: 先方が前日負けた場合：北名古屋コミニケーション杯VS大口ファンキーモンキーズ　午後：Aチームと合同練習　　　　　　　　　　　　　先方が前日勝利した場合　　　午前：Aチーム試合観戦　　午後：Aチーム合同練習
+    location_text: 試合：大口西小学校　　　　練習：高嶺小学校
+  - date: 2026-10-03
     team: C
-    time: 8:30～16:30
-    description: 午前：ふれあい予選VS崇化館JBC  10:00〜    午後：練習
-    location_text: 寿恵野小学校
-  - date: 2026-09-27
+    time: 7:45〜15:15
+    description: 7:45〜9:20  練習　　移動後 スポーツ少年西三河大会VS知立サウス  10:45〜    2試合目　高取ファイターズ   13:45〜
+    location_text: 練習：富士精工グラウンド　　試合：柳川瀬児童野球場
+  - date: 2026-10-04
     team: C
-    time: 7:30～16:30
-    description: 午前：Bチーム応援　試合終了後練習
-    location_text: 試合：柳川瀬児童野球場　練習：寿恵野小学校
+    time: 8:50〜15:30
+    description: 8:50〜11:00  練習　その後移動  チャレンジカップ予選VS豊田虎　9:00〜　試合終了後解散
+    location_text: 練習：豊田鉄工体育館　　試合：柳川瀬児童野球場
   - team: D
-    date: 2026-09-26
-    time: 8:30～16:00（1年生は12時まで）
-    description: 練習
-    location_text: 上郷コミニティセンター　　(１年生　寿恵野小学校)
+    date: 2026-10-03
+    time: 1年生：8:30〜12:00      2年生：8:30〜16:00    3年生7:45〜14:15
+    description: 1.2年生：練習　　3年生：Cチームと合同
+    location_text: 1.2年生：東グラウンド　　　3年生：Cチームと同じ
   - team: D
-    date: 2026-09-27
-    time: 7:45〜12:00  (1年生は8:30〜12:00まで)
-    description: オレンジカップVS高浜翼　10:30〜   試合終了後解散　　(１年生　練習)
-    location_text: 高浜翼小学校　　(１年生寿恵野小学校)
+    date: 2026-10-04
+    time: 8:30〜16:00     (1年生  12:00まで )
+    description: 練習　　
+    location_text: 東グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
