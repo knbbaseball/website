@@ -7,38 +7,38 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-10-10
+  - date: 2026-10-17
     team: A
     time: 8:00〜17:00
-    description: 午前：練習　    午後：名球会VS大口タイガース
-    location_text: 練習：高嶺小　　試合：桃花台第一公園グラウンド
+    description: "練習　   "
+    location_text: 高嶺小　
     location_url: 　
   - team: A
-    date: 2026-10-11
+    date: 2026-10-18
     time: 8:00〜17:00
-    description: 練習
+    description: 午前：練習　　　午後：南部大会VS名東ヒーローズ
     location_text: 高嶺小
     location_url: ""
   - team: B
-    date: 2026-10-10
-    time: 8：30〜試合終了後解散
-    description: 午前：練習   午後 :積水ハウスカップVS逢妻ファイターズ　14:30〜
-    location_text: 練習：コミュニティセンター　　試合：地域文化広場A面
+    date: 2026-10-17
+    time: 8:00〜17:00
+    description: 午前：ドラゴンズアカデミー野球教室   午後 ：練習
+    location_text: 午前：柳川瀬公園　　午後：上郷コミニティセンター
   - team: B
-    date: 2026-10-11
-    time: 7:30〜17:00
-    description: 午前：北名古屋コミニケーションズ杯VS大口ファンキーモンキーズ　　午後：練習
-    location_text: 試合：大口西小学校　　練習：高嶺小
-  - date: 2026-10-10
+    date: 2026-10-18
+    time: 8:00〜試合終了後解散
+    description: 午前：練習　　午後：北名古屋コミュニケーションズ杯VS中畑アローズ
+    location_text: 練習：寿恵野小学校　　　試合：矢作川西尾緑地
+  - date: 2026-10-17
     team: C
     time: 8:30〜16:30
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2026-10-11
+  - date: 2026-10-18
     team: C
     time: 8:30〜16:00
-    description: 午前：練習　午後：チャレンジカップ予選VS堤スターズ　14:30〜　試合終了後解散
-    location_text: 練習：寿恵野小学校　　試合：柳川瀬児童野球場
+    description: 練習　
+    location_text: 練習：寿恵野小学校　　
   - team: D
     date: 2026-10-10
     time: "8:30〜16:30    "
