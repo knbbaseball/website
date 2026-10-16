@@ -40,15 +40,15 @@ schedule:
     description: 練習　
     location_text: 練習：寿恵野小学校　　
   - team: D
-    date: 2026-10-10
-    time: "8:30〜16:30    "
-    description: 2.3年生：オレンジ予選VS鳴海シャークス　14:00〜　その後　1.2年生：練習試合VS鳴海シャークス15:30〜　その間3年生は練習
-    location_text: 高嶺小
+    date: 2026-10-17
+    time: "8:30〜16:00 (1年生 12:00)   "
+    description: 練習
+    location_text: 寿恵野小学校
   - team: D
-    date: 2026-10-11
+    date: 2026-10-18
     time: 8:30〜16:00     (1年生  12:00まで )
-    description: 1年生：練習　　2.3年生：オレンジ予選VS西尾アサヒ    10:30〜      午後：練習
-    location_text: 試合：寺津小　　　練習：寿恵野小
+    description: 1年生：練習　　2.3年生：ふれあい予選VS豊田虎    10:00〜      午後：練習
+    location_text: 1年生 高嶺小　　2.3年生　試合：富士精工　練習：寿恵野小
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
