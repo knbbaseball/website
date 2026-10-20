@@ -7,48 +7,48 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-10-17
+  - date: 2026-10-24
     team: A
-    time: 8:00〜17:00
-    description: "練習　   "
+    time: 8:00〜16:00
+    description: 午前：練習　 　午後：  東海団地VS矢田スターズ　　14:00〜
     location_text: 高嶺小　
     location_url: 　
   - team: A
-    date: 2026-10-18
-    time: 8:00〜17:00
-    description: 午前：練習　　　午後：南部大会VS名東ヒーローズ
-    location_text: 高嶺小
+    date: 2026-10-25
+    time: 6:00〜15:00
+    description: 午前：秋季大会VS逢妻ファイターズ　　8:30〜　　　午後：練習
+    location_text: 試合：柳川瀬児童野球場　　午後：高嶺小
     location_url: ""
   - team: B
-    date: 2026-10-17
-    time: 8:00〜17:00
-    description: 午前：ドラゴンズアカデミー野球教室   午後 ：練習
-    location_text: 午前：柳川瀬公園　　午後：上郷コミニティセンター
+    date: 2026-10-24
+    time: 8:30〜17:00
+    description: 練習
+    location_text: 上郷コミニティセンター
   - team: B
-    date: 2026-10-18
-    time: 8:00〜試合終了後解散
-    description: 午前：練習　　午後：北名古屋コミュニケーションズ杯VS中畑アローズ
-    location_text: 練習：寿恵野小学校　　　試合：矢作川西尾緑地
-  - date: 2026-10-17
+    date: 2026-10-25
+    time: 8:00〜16:30
+    description: 練習試合VS東海中央ジュニア　　1試合目：10:00〜    2試合目：13:30〜
+    location_text: 畝部小学校
+  - date: 2026-10-24
     team: C
     time: 8:30〜16:30
     description: 練習
-    location_text: 寿恵野小学校
-  - date: 2026-10-18
+    location_text: 畝部小学校
+  - date: 2026-10-25
     team: C
     time: 8:30〜16:00
     description: 練習　
-    location_text: 練習：寿恵野小学校　　
+    location_text: 寿恵野小学校　　
   - team: D
-    date: 2026-10-17
-    time: "8:30〜16:00 (1年生 12:00)   "
-    description: 練習
-    location_text: 寿恵野小学校
+    date: 2026-10-24
+    time: 1年生 ：12:30〜16:00       2.3年生：8:00〜16:00
+    description: 1年生：練習　　　2.3年生：ふれあい予選VSイーグルスジュニアVS10:00〜   午後：練習
+    location_text: 1年生：寿恵野小学校  2.3年生：寿恵野小学校
   - team: D
-    date: 2026-10-18
-    time: 8:30〜16:00     (1年生  12:00まで )
-    description: 1年生：練習　　2.3年生：ふれあい予選VS豊田虎    10:00〜      午後：練習
-    location_text: 1年生 高嶺小　　2.3年生　試合：富士精工　練習：寿恵野小
+    date: 2026-10-25
+    time: 1年生：8:30〜12:00           2.3年生：8:30〜16:00
+    description: 全学年練習
+    location_text: 寿恵野小
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
