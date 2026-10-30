@@ -7,45 +7,45 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-10-24
+  - date: 2026-10-31
     team: A
-    time: 8:00〜16:00
-    description: 午前：練習　 　午後：  東海団地VS矢田スターズ　　14:00〜
-    location_text: 高嶺小　
+    time: 8:00〜17:00
+    description: "練習　 "
+    location_text: 上郷コミニティセンター
     location_url: 　
   - team: A
-    date: 2026-10-25
-    time: 6:00〜15:00
-    description: 午前：秋季大会VS逢妻ファイターズ　　8:30〜　　　午後：練習
-    location_text: 試合：柳川瀬児童野球場　　午後：高嶺小
+    date: 2026-11-01
+    time: 7:40〜16:00
+    description: 午前：東海団地VS矢田スターズ　　10:00〜　　　午後：ジャパンカップVS安城ファイヤードラゴン　14:00〜
+    location_text: 富士精工グラウンド
     location_url: ""
   - team: B
-    date: 2026-10-24
-    time: 8:30〜17:00
-    description: 練習
-    location_text: 上郷コミニティセンター
+    date: 2026-10-31
+    time: なし
+    description: 練習なし
+    location_text: なし
   - team: B
     date: 2026-10-25
-    time: 8:00〜16:30
-    description: 練習試合VS東海中央ジュニア　　1試合目：10:00〜    2試合目：13:30〜
-    location_text: 畝部小学校
-  - date: 2026-10-24
-    team: C
     time: 8:30〜16:30
     description: 練習
     location_text: 畝部小学校
-  - date: 2026-10-25
+  - date: 2026-10-31
     team: C
-    time: 8:30〜16:00
+    time: なし
+    description: 練習なし
+    location_text: なし
+  - date: 2026-11-01
+    team: C
+    time: 8:30〜16:30
     description: 練習　
-    location_text: 寿恵野小学校　　
+    location_text: 寿恵野小学校
   - team: D
-    date: 2026-10-24
-    time: 1年生 ：12:30〜16:00       2.3年生：8:00〜16:00
-    description: 1年生：練習　　　2.3年生：ふれあい予選VSイーグルスジュニアVS10:00〜   午後：練習
-    location_text: 1年生：寿恵野小学校  2.3年生：寿恵野小学校
+    date: 2026-10-31
+    time: 1年生 ：8:30〜12:00       2.3年生：8:30〜16:00
+    description: 練習
+    location_text: 寿恵野小学校
   - team: D
-    date: 2026-10-25
+    date: 2026-11-01
     time: 1年生：8:30〜12:00           2.3年生：8:30〜16:00
     description: 全学年練習
     location_text: 寿恵野小
