@@ -7,47 +7,47 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-10-31
+  - date: 2026-11-07
     team: A
     time: 8:00〜17:00
-    description: "練習　 "
-    location_text: 上郷コミニティセンター
+    description: 午前：練習　　午後：東海団地VS福地ファイターズ
+    location_text: 柳川瀬野球場
     location_url: 　
   - team: A
-    date: 2026-11-01
-    time: 7:40〜16:00
-    description: 午前：東海団地VS矢田スターズ　　10:00〜　　　午後：ジャパンカップVS安城ファイヤードラゴン　14:00〜
-    location_text: 富士精工グラウンド
+    date: 2026-11-08
+    time: 7:45〜16:30.
+    description: 午前：練習　　午後：名球会VS半田ドリームス
+    location_text: 練習：畝部小学校　　　　試合：桃花台第一グラウンド
     location_url: ""
   - team: B
-    date: 2026-10-31
-    time: なし
-    description: 練習なし
-    location_text: なし
+    date: 2026-11-07
+    time: 8:30〜17:00
+    description: 練習
+    location_text: 上郷コミュニティセンター
   - team: B
-    date: 2026-10-25
+    date: 2026-11-08
+    time: 16:30
+    description: 午前：練習　　午後：試合VS安城中央クラブ
+    location_text: 午前：寿恵野小学校　　午後：畝部小学校
+  - date: 2026-11-07
+    team: C
     time: 8:30〜16:30
     description: 練習
     location_text: 畝部小学校
-  - date: 2026-10-31
+  - date: 2026-11-08
     team: C
-    time: なし
-    description: 練習なし
-    location_text: なし
-  - date: 2026-11-01
-    team: C
-    time: 8:30〜16:30
-    description: 練習　
+    time: 8:50〜16:30
+    description: 練習試合VS三河スターズ　　1試合目VS10:00〜    2試合目VS13:30〜
+    location_text: 恵田小学校
+  - team: D
+    date: 2026-11-07
+    time: 1年生　8:30〜12:00       2.3年生   8:30〜16:30
+    description: 1年生：練習     2.3年生：午前　練習　　　午後　ふれあいVS隼ガーディアンズ　14:30〜
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-10-31
-    time: 1年生 ：8:30〜12:00       2.3年生：8:30〜16:00
-    description: 練習
-    location_text: 寿恵野小学校
-  - team: D
-    date: 2026-11-01
-    time: 1年生：8:30〜12:00           2.3年生：8:30〜16:00
-    description: 全学年練習
+    date: 2026-11-08
+    time: 1年生：8:30〜12:00           2.3年生：8:30〜16:30
+    description: 1年生：練習　　　2.3年生：午前　練習　　午後　オレンジVS岡崎少年野球クラブ
     location_text: 寿恵野小
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
