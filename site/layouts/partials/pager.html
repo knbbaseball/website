@@ -1,0 +1,46 @@
+{{/* Mirror Hugo's original embedded pagination output, with BEM class names. */}}
+{{ $pager := .Paginator }}
+{{ if gt $pager.TotalPages 1 }}
+<nav class="pager" aria-label="ページナビゲーション">
+  <ul class="pager__list">
+    {{ $current := $pager.PageNumber }}
+    {{ with $pager.First }}
+      {{ if ne $current .PageNumber }}
+        <li class="pager__item"><a class="pager__link" href="{{ .URL }}" aria-label="First">&laquo;&laquo;</a></li>
+      {{ else }}
+        <li class="pager__item pager__item--disabled"><a class="pager__link" aria-disabled="true" aria-label="First" tabindex="-1">&laquo;&laquo;</a></li>
+      {{ end }}
+    {{ end }}
+    {{ with $pager.Prev }}
+      <li class="pager__item"><a class="pager__link" href="{{ .URL }}" rel="prev" aria-label="Previous">&laquo;</a></li>
+    {{ else }}
+      <li class="pager__item pager__item--disabled"><a class="pager__link" aria-disabled="true" aria-label="Previous" tabindex="-1">&laquo;</a></li>
+    {{ end }}
+    {{ $slots := 5 }}
+    {{ $start := math.Max 1 (sub $pager.PageNumber (math.Floor (div $slots 2))) }}
+    {{ $end := math.Min $pager.TotalPages (sub (add $start $slots) 1) }}
+    {{ if lt (add (sub $end $start) 1) $slots }}
+      {{ $start = math.Max 1 (add (sub $end $slots) 1) }}
+    {{ end }}
+    {{ range $number := seq $start $end }}
+      {{ if eq $pager.PageNumber $number }}
+        <li class="pager__item pager__item--current"><a class="pager__link" aria-current="page" aria-label="Page {{ $number }}">{{ $number }}</a></li>
+      {{ else }}
+        <li class="pager__item"><a class="pager__link" href="{{ (index $pager.Pagers (sub $number 1)).URL }}" aria-label="Page {{ $number }}">{{ $number }}</a></li>
+      {{ end }}
+    {{ end }}
+    {{ with $pager.Next }}
+      <li class="pager__item"><a class="pager__link" href="{{ .URL }}" rel="next" aria-label="Next">&raquo;</a></li>
+    {{ else }}
+      <li class="pager__item pager__item--disabled"><a class="pager__link" aria-disabled="true" aria-label="Next" tabindex="-1">&raquo;</a></li>
+    {{ end }}
+    {{ with $pager.Last }}
+      {{ if ne $current .PageNumber }}
+        <li class="pager__item"><a class="pager__link" href="{{ .URL }}" aria-label="Last">&raquo;&raquo;</a></li>
+      {{ else }}
+        <li class="pager__item pager__item--disabled"><a class="pager__link" aria-disabled="true" aria-label="Last" tabindex="-1">&raquo;&raquo;</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}

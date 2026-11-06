@@ -8,12 +8,10 @@
 
   */}}
 
-{{ range $name := .Params.Tags }}
-
-  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-    <a href="{{ .RelPermalink }}" class="tag">
-      {{ $name }}
-    </a>
+<span class="tag-list">
+  {{ range $name := .Params.Tags }}
+    {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+      <a href="{{ .RelPermalink }}" class="tag-list__tag">{{ $name }}</a>
+    {{ end }}
   {{ end }}
-
-{{ end }}
+</span>

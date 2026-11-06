@@ -1,23 +1,23 @@
 {{ define "main" }}
 
-<section class="hero hero--page-header">
-  <div class="hero-body">
-    <p class="title">{{.Title}}</p>
-    <p class="subtitle">
+<section class="page-hero page-hero--page">
+  <div class="page-hero__body">
+    <p class="page-hero__title">{{.Title}}</p>
+    <p class="page-hero__subtitle">
       <time datetime="{{ . }}">{{ dateFormat "2006.1.2" .Date }}</time>
       {{ if .Params.Tags }}
-        <span class="ml-3">{{- partial "page-tags.html" . -}}</span>
+        <span class="page-hero__tags">{{- partial "page-tags.html" . -}}</span>
       {{ end }}
     </p>
   </div>
 </section>
-<main class="container my-5 px-2">
+<main class="site-container site-container--page">
   {{ if .Params.image }}
-    <div class="mb-4">
+    <div class="page-media">
       {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
     </div>
   {{ end }}
-  <div class="content">{{ .Content }}</div>
+  <div class="prose">{{ .Content }}</div>
 </main>
 
 {{ end }}

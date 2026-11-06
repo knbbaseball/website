@@ -1,34 +1,34 @@
 {{ define "main" }}
 
-<section class="hero hero--page-header">
-  <div class="hero-body">
-    <p class="title">{{.Title}}</p>
+<section class="page-hero page-hero--page">
+  <div class="page-hero__body">
+    <p class="page-hero__title">{{.Title}}</p>
   </div>
 </section>
-<main class="container my-5 px-2">
+<main class="site-container site-container--page">
   {{ if .Params.image }}
-    <div class="mb-4">
+    <div class="page-media">
       {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
     </div>
   {{ end }}
-  <div class="content">
+  <div class="prose">
     {{ .Content }}
   </div>
   {{ if .Params.players }}
-    <section class="py-4">
-      <h2 class="title is-4">選手</h2>
+    <section class="page-section page-section--compact">
+      <h2 class="page-section__title">選手</h2>
       {{ partial "players" .Params.players }}
     </section>
   {{ end }}
   {{ if .Params.coaches }}
-    <section class="py-4">
-      <h2 class="title is-4">監督・コーチ</h2>
+    <section class="page-section page-section--compact">
+      <h2 class="page-section__title">監督・コーチ</h2>
       {{ partial "coaches" .Params.coaches }}
     </section>
   {{ end }}
   {{ if .Params.scores }}
-    <section class="py-4">
-      <h2 class="title is-4">試合結果</h2>
+    <section class="page-section page-section--compact">
+      <h2 class="page-section__title">試合結果</h2>
       {{ partial "scores" .Params.scores }}
     </section>
   {{ end }}

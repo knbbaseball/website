@@ -3,12 +3,11 @@
 [build]
 base    = "site"
 publish = "public"
-command = "npm install && hugo"
+command = "hugo"
 
 [build.environment]
-NODE_VERSION = "22"
+HUGO_VERSION = "0.165.0"
 
 [context.production.environment]
-HUGO_VERSION = "0.154.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"

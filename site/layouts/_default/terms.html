@@ -4,22 +4,22 @@
   Example URL: /tags/
 */}}
 
-<section class="hero hero--page-header">
-  <div class="hero-body">
-    <p class="title">{{.Title}}</p>
+<section class="page-hero page-hero--page">
+  <div class="page-hero__body">
+    <p class="page-hero__title">{{.Title}}</p>
   </div>
 </section>
-<main class="container my-5 px-2">
-  <div class="content">{{ .Content }}</div>
+<main class="site-container site-container--page">
+  <div class="prose">{{ .Content }}</div>
   {{ range $key, $value := .Data.Terms }}
     <a href="{{ "/" | relLangURL }}{{ $.Data.Plural | urlize }}/{{ $key | urlize }}">
-      <h2 class="title is-4 mb-4">{{ $.Data.Singular | humanize }}: {{ $key }}</h2>
+      <h2 class="taxonomy-group__title">{{ $.Data.Singular | humanize }}: {{ $key }}</h2>
     </a>
-    <ul class="mb-4">
+    <ul class="taxonomy-group__list">
       {{ range $value.Pages }}
-        <li class="card mb-2">
-          <div class="card-content">
-            <a href="{{ .Permalink }}" class="title is-6">{{ .Title }}</a>
+        <li class="article-card article-card--list">
+          <div class="article-card__body">
+            <a href="{{ .Permalink }}" class="article-card__title article-card__title--small">{{ .Title }}</a>
           </div>
         </li>
       {{ end }}

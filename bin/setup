@@ -1,4 +1,4 @@
 #!/bin/sh
+set -eu
 
-echo "===> Installing dependencies"
-npm install --prefix site
+echo "===> No dependencies to install (plain CSS + Hugo)"

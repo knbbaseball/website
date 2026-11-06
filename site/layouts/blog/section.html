@@ -1,21 +1,21 @@
 {{ define "main" }}
 
-<section class="hero hero--page-header">
-  <div class="hero-body">
-    <p class="title">{{.Title}}</p>
+<section class="page-hero page-hero--page">
+  <div class="page-hero__body">
+    <p class="page-hero__title">{{.Title}}</p>
   </div>
 </section>
-<main class="container my-5 px-2">
+<main class="site-container site-container--page">
   {{ if .Params.image }}
-    <div class="mb-4">
+    <div class="page-media">
       {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
     </div>
   {{ end }}
-  <div class="content">
+  <div class="prose">
     {{ .Content }}
   </div>
   {{ if ne (len .Site.Taxonomies.tags) 0 }}
-    <div class="tags">
+    <div class="tag-list">
       {{ partial "site-tags" . }}
     </div>
   {{ end }}

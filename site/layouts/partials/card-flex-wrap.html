@@ -1,16 +1,12 @@
-<ul class="is-flex is-flex-wrap-wrap is-justify-content-center">
+<ul class="feature-grid feature-grid--wrap">
   {{ range . }}
-    <li class="m-2">
-      {{ if .actionUrl }}<a href="{{.actionUrl}}">{{ end }}
-      <div class="card mb-4" style="max-width: 20rem">
-        <div class="card-image">
-          <figure class="image">
-            <img src="{{ relURL .image }}">
-          </figure>
-        </div>
-        <div class="card-content">
-          <h4 class="title is-4">{{ .name }}</h4>
-          <div class="content">{{ .description | markdownify }}</div>
+    <li class="feature-grid__item">
+      {{ if .actionUrl }}<a class="feature-grid__link" href="{{ .actionUrl }}">{{ end }}
+      <div class="feature-card">
+        <figure class="feature-card__media"><img src="{{ relURL .image }}" alt="{{ .name }}"></figure>
+        <div class="feature-card__body">
+          <h4 class="feature-card__title">{{ .name }}</h4>
+          <div class="prose">{{ .description | markdownify }}</div>
         </div>
       </div>
       {{ if .actionUrl }}</a>{{ end }}

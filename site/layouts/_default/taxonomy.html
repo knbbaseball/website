@@ -4,18 +4,18 @@
   Example URL: /tags/case/
 */}}
 
-<section class="hero hero--page-header">
-  <div class="hero-body">
-    <p class="title">Tag: {{.Title}}</p>
+<section class="page-hero page-hero--page">
+  <div class="page-hero__body">
+    <p class="page-hero__title">Tag: {{.Title}}</p>
   </div>
 </section>
-<main class="container my-5 px-2">
-  <div class="content">{{ .Content }}</div>
-  <ul class="mb-4">
+<main class="site-container site-container--page">
+  <div class="prose">{{ .Content }}</div>
+  <ul class="taxonomy-group__list">
     {{ range .Pages }}
-      <li class="card mb-2">
-        <div class="card-content">
-          <a href="{{ .Permalink }}" class="title is-6">{{ .Title }}</a>
+      <li class="article-card article-card--list">
+        <div class="article-card__body">
+          <a href="{{ .Permalink }}" class="article-card__title article-card__title--small">{{ .Title }}</a>
         </div>
       </li>
     {{ end }}

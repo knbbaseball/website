@@ -1,34 +1,30 @@
 {{ define "main" }}
 
-<section class="hero hero--page-header">
-  <div class="hero-body">
-    <p class="title">{{.Title}}</p>
+<section class="page-hero page-hero--page">
+  <div class="page-hero__body">
+    <p class="page-hero__title">{{.Title}}</p>
   </div>
 </section>
-<main class="container my-5 px-2">
+<main class="site-container site-container--page">
   {{ if .Params.image }}
-    <div class="mb-4">
+    <div class="page-media">
       {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
     </div>
   {{ end }}
-  <div class="content">{{ .Content }}</div>
+  <div class="prose">{{ .Content }}</div>
   <div>
     {{ range .Paginator.Pages.ByPublishDate.Reverse }}
     <a href="{{ .RelPermalink }}">
-      <article class="card mb-4">
-        <div class="card-content">
-          <div class="media">
-            <div class="media-content">
-              <p class="title is-4">{{ .Title }}</p>
-            </div>
-          </div>
-          <div class="content">{{ .Summary }}</div>
+      <article class="article-card article-card--spaced">
+        <div class="article-card__body">
+          <h2 class="article-card__title">{{ .Title }}</h2>
+          <div class="prose">{{ .Summary }}</div>
         </div>
       </article>
     </a>
     {{ end }}
   </div>
-  {{- template "_internal/pagination.html" . -}}
+  {{ partial "pager.html" . }}
 </main>
 
 {{ end }}

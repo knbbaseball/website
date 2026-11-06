@@ -3,7 +3,7 @@
 {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $cnt := .Count }}
 
   {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-    <a href="{{ .RelPermalink }}" class="tag">
+    <a href="{{ .RelPermalink }}" class="tag-list__tag">
       {{ $name }}<sub>{{ $cnt }}</sub>
     </a>
   {{ end }}

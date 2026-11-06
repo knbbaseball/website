@@ -1,17 +1,15 @@
 {{ define "main" }}
 
 {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
-<header class="hero is-link">
-  <div class="hero-body">
+<header class="page-hero page-hero--home">
+  <div class="page-hero__body">
     {{ with .Params.blurb }}
-      <div class="columns">
-        <div class="column is-three-quarters-desktop">
-          {{ .text | markdownify }}
-        </div>
+      <div class="intro">
+        <div class="intro__text prose prose--inverse">{{ .text | markdownify }}</div>
         {{ if .gmImage }}
-          <figure class="column">
-            <img src="{{ .gmImage }}" alt="{{ .gmName }}" class="gmImage">
-            <figcaption>{{ .gmName }}</figcaption>
+          <figure class="intro__portrait">
+            <img class="intro__portrait-image" src="{{ .gmImage }}" alt="{{ .gmName }}">
+            <figcaption class="intro__caption">{{ .gmName }}</figcaption>
           </figure>
         {{ end }}
       </div>
@@ -19,50 +17,43 @@
   </div>
 </header>
 {{ if .Params.banner }}
-  <marquee class="banner">
-    {{ .Params.banner }}
-  </marquee>
+  <marquee class="announcement">{{ .Params.banner }}</marquee>
 {{ end }}
-<main class="container px-2 mb-6">
-  <section class="py-6" id="schedule">
-    <h2 class="title is-4">予定表</h2>
+<main class="site-container site-container--home">
+  <section class="page-section" id="schedule">
+    <h2 class="page-section__title">予定表</h2>
     {{ partial "schedule-table" .Params.schedule }}
   </section>
   {{ with .Params.info }}
-    <section class="py-6">
-      <div class="message is-link" >
-        <h2 class="message-header">{{ .title }}</h2>
-        <div class="message-body">
+    <section class="page-section">
+      <div class="notice">
+        <h2 class="notice__header">{{ .title }}</h2>
+        <div class="notice__body">
           {{ .content | markdownify }}
           {{ if .image }}
-            <img src="{{ .image }}" alt="{{ .title }}" class="mt-2">
+            <img class="notice__image" src="{{ .image }}" alt="{{ .title }}">
           {{ end }}
           {{ if .actionText }}
-            <a href="{{ .actionUrl }}" class="button mt-2">{{ .actionText }}</a>
+            <a href="{{ .actionUrl }}" class="notice__action">{{ .actionText }}</a>
           {{ end }}
         </div>
       </div>
     </section>
   {{ end }}
-  <section class="py-6">
-    <div class="content">
-      {{ .Content }}
-    </div>
+  <section class="page-section">
+    <div class="prose">{{ .Content }}</div>
   </section>
-  <section class="py-6">
-    <h2 class="title is-4">最新記事</h2>
+  <section class="page-section">
+    <h2 class="page-section__title">最新記事</h2>
     {{ partial "blog-table-recent" . }}
-    <div class="tags mt-5">
+    <div class="tag-list tag-list--spaced">
       {{ $blogPostCount := len (where .Site.RegularPages "Section" "!=" "") }}
-      <a href="/blog" class="tag">全記事<sub>{{ $blogPostCount }}</sub></a>
+      <a href="{{ relURL "blog" }}" class="tag-list__tag">全記事<sub>{{ $blogPostCount }}</sub></a>
       {{ partial "site-tags" . }}
     </div>
   </section>
 
-  {{/*
-    Netlify CMS
-    - https://www.netlifycms.org/docs/add-to-your-site/#add-the-netlify-identity-widget
-  */}}
+  {{/* Netlify CMS identity widget */}}
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
@@ -75,5 +66,4 @@
     }
   </script>
 </main>
-
 {{ end }}
