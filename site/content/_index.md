@@ -7,38 +7,38 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-11-07
+  - date: 2026-11-14
     team: A
-    time: 8:00〜17:00
-    description: 午前：練習　　午後：東海団地VS福地ファイターズ
+    time: 6:00〜11:00
+    description: 秋季大会VS崇化館JBC　　　8:30〜
     location_text: 柳川瀬野球場
     location_url: 　
   - team: A
-    date: 2026-11-08
-    time: 7:45〜16:30.
-    description: 午前：練習　　午後：名球会VS半田ドリームス
-    location_text: 練習：畝部小学校　　　　試合：桃花台第一グラウンド
+    date: 2026-11-15
+    time: 6:00〜16:00
+    description: 午前：土曜日勝利の場合　秋季大会　8:30〜　午後：ジャパンカップVS逢妻ファイターズ      14:00〜
+    location_text: 午前：柳川瀬児童野球場　　　午後：小清水小学校
     location_url: ""
   - team: B
-    date: 2026-11-07
-    time: 8:30〜17:00
+    date: 2026-11-14
+    time: 8:30〜13:00
     description: 練習
-    location_text: 上郷コミュニティセンター
+    location_text: 寿恵野小学校
   - team: B
-    date: 2026-11-08
-    time: 16:30
-    description: 午前：練習　　午後：試合VS安城中央クラブ
-    location_text: 午前：寿恵野小学校　　午後：畝部小学校
-  - date: 2026-11-07
-    team: C
-    time: 8:30〜16:30
-    description: 練習
+    date: 2026-11-15
+    time: 8:00〜16:30
+    description: 午前：練習　　午後：ジャパンカップVS美里チャレンジBC　　14:00〜
     location_text: 畝部小学校
-  - date: 2026-11-08
+  - date: 2026-11-14
+    team: C
+    time: 8:30〜12:00
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2026-11-15
     team: C
     time: 8:50〜16:30
-    description: 練習試合VS三河スターズ　　1試合目VS10:00〜    2試合目VS13:30〜
-    location_text: 恵田小学校
+    description: 練習
+    location_text: 寿恵野小学校
   - team: D
     date: 2026-11-07
     time: 1年生　8:30〜12:00       2.3年生   8:30〜16:30
