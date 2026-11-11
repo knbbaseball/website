@@ -40,15 +40,15 @@ schedule:
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-11-07
-    time: 1年生　8:30〜12:00       2.3年生   8:30〜16:30
-    description: 1年生：練習     2.3年生：午前　練習　　　午後　ふれあいVS隼ガーディアンズ　14:30〜
+    date: 2026-11-14
+    time: 全学年： 8:30〜12:00
+    description: 体験会
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-11-08
-    time: 1年生：8:30〜12:00           2.3年生：8:30〜16:30
-    description: 1年生：練習　　　2.3年生：午前　練習　　午後　オレンジVS岡崎少年野球クラブ
-    location_text: 寿恵野小
+    date: 2026-11-15
+    time: 全学年：8:30〜12:00
+    description: 練習
+    location_text: 富士精工
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
