@@ -7,48 +7,53 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？インスタも随時更新！お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2026-11-14
+  - date: 2026-11-21
     team: A
-    time: 6:00〜11:00
-    description: 秋季大会VS崇化館JBC　　　8:30〜
-    location_text: 柳川瀬野球場
+    time: 8:00〜16:00
+    description: 練習
+    location_text: 高嶺小学校
     location_url: 　
   - team: A
-    date: 2026-11-15
+    date: 2026-11-22
     time: 6:00〜16:00
-    description: 午前：土曜日勝利の場合　秋季大会　8:30〜　午後：ジャパンカップVS逢妻ファイターズ      14:00〜
-    location_text: 午前：柳川瀬児童野球場　　　午後：小清水小学校
+    description: 午前：秋季大会VS堤スターズ　8:30〜　午後：ジャパンカップVS逢妻ファイターズ      14:00〜
+    location_text: 午前：柳川瀬児童野球場　　　午後：高嶺小学校
     location_url: ""
+  - team: A
+    date: 2026-11-23
+    time: 7:30〜12:00
+    description: 南部大会VS大清水クラブ　10:00〜
+    location_text: 高嶺小学校
   - team: B
-    date: 2026-11-14
-    time: 8:30〜13:00
-    description: 練習
-    location_text: 寿恵野小学校
+    date: 2026-11-21
+    time: 8:15〜17:00
+    description: 午前：レッドクルーザーズ　午後：練習
+    location_text: 午前：寿恵野小学校　午後：畝部小学校
   - team: B
-    date: 2026-11-15
-    time: 8:00〜16:30
+    date: 2026-11-22
+    time: 8:30〜16:30
     description: 午前：練習　　午後：ジャパンカップVS美里チャレンジBC　　14:00〜
     location_text: 畝部小学校
-  - date: 2026-11-14
+  - date: 2026-11-21
     team: C
-    time: 8:30〜12:00
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2026-11-15
+    time: 8:30〜15:30
+    description: 午前：練習　　午後：ジャパンカップVS安城ライナーズ
+    location_text: 練習：寿恵野小学校     試合：城ヶ入グラウンド
+  - date: 2026-11-22
     team: C
-    time: 8:50〜16:30
+    time: 8:30〜16:30
     description: 練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-11-14
-    time: 全学年： 8:30〜12:00
-    description: 体験会
+    date: 2026-11-21
+    time: 全学年： 8:30〜16:00
+    description: 午前：レッドクルーザーズ　　午後：練習
     location_text: 寿恵野小学校
   - team: D
-    date: 2026-11-15
-    time: 全学年：8:30〜12:00
-    description: 練習
-    location_text: 富士精工
+    date: 2026-11-22
+    time: 1年生：8:30〜12:00　　2.3年生：8:00〜16:00
+    description: 1年生：練習       2.3年生：ふれあいVS南部スターズ  9:30〜     ふれあいVS隼ガーディアンズ　14:00〜
+    location_text: 1年生：高嶺小学校　　2.3年生：寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
